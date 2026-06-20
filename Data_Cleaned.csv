@@ -1,0 +1,1497 @@
+Location,price_php_millions,Bedrooms,Bathrooms,Floor Area,Land Area,Town/Barangay,Municipality/City,Province/NCR
+"Santo Domingo, Cainta",9.5,4.0,3.0,144.0,136.0,Santo Domingo,Cainta,Rizal
+"San Vicente, Santa Maria",4.4,3.0,2.0,63.2,80.0,San Vicente,Santa Maria,Bulacan
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.81,5.0,3.0,100.0,110.0,Maliwalo,Tarlac City,Tarlac
+"Gabon, Abucay",,3.0,2.0,67.0,88.0,Gabon,Abucay,Bataan
+"Zambowood Rd. Boalan, Zamboanga",3.28,2.0,1.0,40.32,78.4,Boalan,Zamboanga City,Zamboanga del Sur
+"Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3.17,,,39.64,100.0,Sahud Ulan,Tanza,Cavite
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.8,2.0,2.0,52.0,40.0,Bulac,Santa Maria,Bulacan
+"Aningway Sacatihan, Subic",8.43,5.0,3.0,142.0,121.0,Aningway Sacatihan,Subic,Zambales
+"Zone 1 Brgy. Cadlan Pili Camarines Sur Cadlan, Pili",3.56,2.0,1.0,46.0,63.0,Cadlan,Pili,Camarines Sur
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.65,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Km.71, North Luzon Expressway Panipuan, Mexico",3.5,3.0,2.0,102.39,154.0,Panipuan,Mexico,Pampanga
+"Tugbok, Davao",5.3,3.0,2.0,70.27,67.0,Tugbok,Davao City,Davao del Sur
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.34,4.0,3.0,85.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Sun Valley, Paranaque",45.0,6.0,5.0,337.0,350.0,Sun Valley,Parañaque,Metro Manila
+"Ungka II, Pavia",4.08,3.0,2.0,52.0,80.0,Ungka II,Pavia,Iloilo
+"Aningway Sacatihan, Subic",10.08,5.0,3.0,142.0,176.0,Aningway Sacatihan,Subic,Zambales
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Bugtong Na Pulo, Lipa",7.5,4.0,3.0,119.0,150.0,Bugtong na Pulo,Lipa City,Batangas
+"Pasong Camachile I, General Trias",2.29,3.0,1.0,40.0,40.0,Pasong Camachile I,General Trias,Cavite
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.25,2.0,2.0,53.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Antero Soriano Highway Sahud Ulan, Tanza",2.26,3.0,1.0,45.0,62.0,Sahud Ulan,Tanza,Cavite
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11.76,5.0,3.0,166.0,176.0,Maliwalo,Tarlac City,Tarlac
+"Sapang Biabas, Mabalacat",1.4,2.0,1.0,40.0,40.0,Sapang Biabas,Mabalacat City,Pampanga
+"Tugbok, Davao",5.3,3.0,2.0,70.27,67.0,Tugbok,Davao City,Davao del Sur
+"Cupang, Muntinlupa",32.34,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.39,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Pasong Camachile I, General Trias",2.39,3.0,1.0,50.0,50.0,Pasong Camachile I,General Trias,Cavite
+"Aningway Sacatihan, Subic",12.77,5.0,3.0,166.0,246.0,Aningway Sacatihan,Subic,Zambales
+"Palo-Alto, Calamba",3.5,,,,104.0,Palo-Alto,Calamba,Laguna
+"Santo Domingo, Cainta",9.5,4.0,3.0,144.0,136.0,Santo Domingo,Cainta,Rizal
+"San Vicente, Santa Maria",4.4,3.0,2.0,63.2,80.0,San Vicente,Santa Maria,Bulacan
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.81,5.0,3.0,100.0,110.0,Maliwalo,Tarlac City,Tarlac
+"Gabon, Abucay",,3.0,2.0,67.0,88.0,Gabon,Abucay,Bataan
+"Zambowood Rd. Boalan, Zamboanga",3.28,2.0,1.0,40.32,78.4,Boalan,Zamboanga City,Zamboanga del Sur
+"Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3.17,,,39.64,100.0,Sahud Ulan,Tanza,Cavite
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.8,2.0,2.0,52.0,40.0,Bulac,Santa Maria,Bulacan
+"Aningway Sacatihan, Subic",8.43,5.0,3.0,142.0,121.0,Aningway Sacatihan,Subic,Zambales
+"Zone 1 Brgy. Cadlan Pili Camarines Sur Cadlan, Pili",3.56,2.0,1.0,46.0,63.0,Cadlan,Pili,Camarines Sur
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.65,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Km.71, North Luzon Expressway Panipuan, Mexico",3.5,3.0,2.0,102.39,154.0,Panipuan,Mexico,Pampanga
+"Tugbok, Davao",5.3,3.0,2.0,70.27,67.0,Tugbok,Davao City,Davao del Sur
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.34,4.0,3.0,85.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Sun Valley, Paranaque",45.0,6.0,5.0,337.0,350.0,Sun Valley,Parañaque,Metro Manila
+"Ungka II, Pavia",4.08,3.0,2.0,52.0,80.0,Ungka II,Pavia,Iloilo
+"Alapan II-A, Imus",3.34,4.0,2.0,70.0,60.0,Alapan II-A,Imus,Cavite
+"Aningway Sacatihan, Subic",10.08,5.0,3.0,142.0,176.0,Aningway Sacatihan,Subic,Zambales
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Bugtong Na Pulo, Lipa",7.5,4.0,3.0,119.0,150.0,Bugtong na Pulo,Lipa City,Batangas
+"Pasong Camachile I, General Trias",2.29,3.0,1.0,40.0,40.0,Pasong Camachile I,General Trias,Cavite
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.25,2.0,2.0,53.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11.76,5.0,3.0,166.0,176.0,Maliwalo,Tarlac City,Tarlac
+"Antero Soriano Highway Sahud Ulan, Tanza",2.26,3.0,1.0,45.0,62.0,Sahud Ulan,Tanza,Cavite
+"Sapang Biabas, Mabalacat",1.4,2.0,1.0,40.0,40.0,Sapang Biabas,Mabalacat City,Pampanga
+"Tugbok, Davao",5.3,3.0,2.0,70.27,67.0,Tugbok,Davao City,Davao del Sur
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.39,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",32.34,3.0,3.0,247.4,93.0,Cupang,Muntinlupa City,Metro Manila
+"Pasong Camachile I, General Trias",2.39,3.0,1.0,50.0,50.0,Pasong Camachile I,General Trias,Cavite
+"Palo-Alto, Calamba",3.5,,,,104.0,Palo-Alto,Calamba,Laguna
+"Palo-Alto, Calamba",3.5,,,,104.0,Palo-Alto,Calamba,Laguna
+"Carsadang Bago I, Imus",5.23,3.0,2.0,75.0,112.0,Carsadang Bago I,Imus,Cavite
+"San Antonio, Makati",125.0,12.0,8.0,500.0,1032.0,San Antonio,Makati City,Metro Manila
+"Longos, Malolos",12.07,5.0,3.0,142.0,176.0,Longos,Malolos,Bulacan
+"Aguinaldo Highway San Agustin I, Dasmarinas",3.27,2.0,2.0,76.18,66.0,San Agustin I,Dasmariñas,Cavite
+"Alapan II-A, Imus",2.29,3.0,1.0,40.0,40.0,Alapan II-A,Imus,Cavite
+"Longos, Malolos",12.9,5.0,3.0,166.0,176.0,Longos,Malolos,Bulacan
+"Ungka II, Pavia",6.38,4.0,3.0,100.0,120.0,Ungka II,Pavia,Iloilo
+"San Rafael Estates San Roque, San Rafael",1.98,2.0,1.0,38.88,41.4,San Roque,San Rafael,Bulacan
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.68,1.0,1.0,44.0,40.0,Bulac,Santa Maria,Bulacan
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.68,1.0,1.0,44.0,40.0,Bulac,Santa Maria,Bulacan
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",7.4,3.0,3.0,125.0,,Banaybanay II,San Jose,Batangas
+"Aningway Sacatihan, Subic",2.6,2.0,1.0,42.0,54.0,Aningway Sacatihan,Subic,Zambales
+"Tamiao, Compostela",7.02,4.0,2.0,82.0,120.0,Tamiao,Compostela,Cebu
+"Km.71, North Luzon Expressway Panipuan, Mexico",2.75,3.0,2.0,78.54,154.0,Panipuan,Mexico,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.18,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Longos, Malolos",7.8,4.0,3.0,85.0,110.0,Longos,Malolos,Bulacan
+"Tamiao, Compostela",6.13,2.0,1.0,,,Tamiao,Compostela,Cebu
+"San Sebastian, Kawit",6.76,4.0,3.0,110.0,100.0,San Sebastian,Kawit,Cavite
+"San Jose, Lipa",8.05,2.0,2.0,48.0,50.0,,San Jose,Batangas
+"Sapang Biabas, Mabalacat",2.71,3.0,2.0,62.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"Alapan II-A, Imus",2.39,3.0,1.0,50.0,50.0,Alapan II-A,Imus,Cavite
+"Victoria South Alabang Tunasan, Muntinlupa",13.5,3.0,2.0,140.0,240.0,Alabang,Muntinlupa,Metro Manila
+"Pasong Camachile I, General Trias",7.41,4.0,3.0,100.0,120.0,Pasong Camachile I,General Trias,Cavite
+"Lot 14 Block 26 J Abad Santos Street Northfields Executive Village Phase 1 Barangay Longos Malolos Bulacan Longos, Malolos",5.9,3.0,6.0,232.89,200.0,Longos,Malolos,Bulacan
+"Eden, Mexico",4.11,3.0,2.0,72.0,88.0,Eden,Mexico,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31.71,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.68,1.0,1.0,44.0,40.0,Bulac,Santa Maria,Bulacan
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.8,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Alapan II-A, Imus",6.65,3.0,2.0,84.0,120.0,Alapan II-A,Imus,Cavite
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.68,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Km.71, North Luzon Expressway Panipuan, Mexico",1.84,2.0,2.0,52.5,154.0,Panipuan,Mexico,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27.68,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Bugtong Na Pulo, Lipa",4.0,2.0,1.0,53.0,52.0,Bugtong na Pulo,Lipa City,Batangas
+"Tamiao, Compostela",5.58,1.0,1.0,,,Tamiao,Compostela,Cebu
+"Alapan II-A, Imus",2.63,3.0,2.0,60.0,50.0,Alapan II-A,Imus,Cavite
+"Ungka II, Pavia",5.34,4.0,2.0,80.0,120.0,Ungka II,Pavia,Iloilo
+"San Sebastian, Kawit",2.29,3.0,1.0,40.0,40.0,San Sebastian,Kawit,Cavite
+"Governor's Dr. Tanauan, Tanza",4.34,3.0,2.0,112.5,72.0,Tanauan,Tanza,Cavite
+"Governor's Dr. Tanauan, Tanza",4.34,3.0,2.0,112.5,72.0,Tanauan,Tanza,Cavite
+"Cay Pombo, Santa Maria",2.18,2.0,1.0,44.0,36.0,Cay Pombo,Santa Maria,Bulacan
+"Tugbok, Davao",3.6,2.0,2.0,48.26,50.0,Tugbok,Davao City,Davao del Sur
+"Antero Soriano Highway Sahud Ulan, Tanza",2.84,3.0,1.0,45.0,62.0,Sahud Ulan,Tanza,Cavite
+"Pasong Camachile I, General Trias",2.63,3.0,2.0,60.0,50.0,Pasong Camachile I,General Trias,Cavite
+"San Rafael, Mexico",1.84,2.0,2.0,52.5,,San Rafael,Mexico,Pampanga
+"San Sebastian, Kawit",3.34,4.0,2.0,70.0,60.0,San Sebastian,Kawit,Cavite
+"Km.71, North Luzon Expressway Panipuan, Mexico",2.71,3.0,2.0,77.31,154.0,Panipuan,Mexico,Pampanga
+"Sapang Biabas, Mabalacat",1.4,2.0,1.0,40.0,40.0,Sapang Biabas,Mabalacat City,Pampanga
+"Buhangin, Davao",21.5,5.0,4.0,300.0,200.0,Buhangin,Davao City,Davao del Sur
+"Alapan II-A, Imus",5.28,3.0,2.0,80.0,92.0,Alapan II-A,Imus,Cavite
+"Talaga, Capas",2.35,,2.0,49.0,50.0,Talaga,Capas,Tarlac
+"Valle Cruz, Cabanatuan",5.38,3.0,2.0,80.0,203.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"Antero Soriano Highway Sahud Ulan, Tanza",2.26,3.0,1.0,45.0,62.0,Sahud Ulan,Tanza,Cavite
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.99,3.0,2.0,66.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Tugbok, Davao",3.6,2.0,2.0,48.26,50.0,Tugbok,Davao City,Davao del Sur
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2.97,2.0,1.0,40.0,36.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Sapang Biabas, Mabalacat",1.4,2.0,1.0,40.0,40.0,Sapang Biabas,Mabalacat City,Pampanga
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.32,4.0,3.0,83.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Eden, Mexico",5.28,4.0,3.0,91.0,143.0,Eden,Mexico,Pampanga
+"Eden, Mexico",3.97,2.0,2.0,59.0,88.0,Eden,Mexico,Pampanga
+"Santa Maria, Mabalacat",1.98,2.0,1.0,40.39,43.2,Santa Maria,Mabalacat City,Pampanga
+"The Wood Estates, Brgy. Hugo Perez, Trece Martires",3.15,2.0,1.0,37.3,70.0,Perez (Lucbanan),Trece Martires City,Cavite
+"Aningway Sacatihan, Subic",8.43,5.0,3.0,100.0,158.0,Aningway Sacatihan,Subic,Zambales
+"Eden, Mexico",3.98,2.0,2.0,59.0,88.0,Eden,Mexico,Pampanga
+"Alapan II-A, Imus",5.98,3.0,3.0,90.0,100.0,Alapan II-A,Imus,Cavite
+"Sapang Biabas, Mabalacat",2.71,3.0,2.0,62.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"Aningway Sacatihan, Subic",10.5,4.0,3.0,83.0,217.0,Aningway Sacatihan,Subic,Zambales
+"Pasong Camachile I, General Trias",6.65,3.0,2.0,84.0,120.0,Pasong Camachile I,General Trias,Cavite
+"Pasong Camachile I, General Trias",5.98,3.0,3.0,90.0,100.0,Pasong Camachile I,General Trias,Cavite
+"San Rafael, Mexico",2.71,3.0,2.0,77.31,,San Rafael,Mexico,Pampanga
+"Carsadang Bago I, Imus",5.23,3.0,2.0,75.0,112.0,Carsadang Bago I,Imus,Cavite
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",10.75,5.0,3.0,166.0,143.0,Maliwalo,Tarlac City,Tarlac
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.36,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Longos, Malolos",3.02,2.0,1.0,36.0,42.0,Longos,Malolos,Bulacan
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.35,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"Aguinaldo Highway San Agustin I, Dasmarinas",9.5,4.0,4.0,132.0,66.0,San Agustin I,Dasmariñas,Cavite
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.7,2.0,2.0,53.0,99.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.17,2.0,1.0,46.0,96.0,Maliwalo,Tarlac City,Tarlac
+"Aningway Sacatihan, Subic",2.34,1.0,1.0,33.0,70.0,Aningway Sacatihan,Subic,Zambales
+"Longos, Malolos",10.41,3.0,2.0,76.0,128.0,Longos,Malolos,Bulacan
+"Longos, Malolos",5.18,2.0,1.0,46.0,60.0,Longos,Malolos,Bulacan
+"Longos, Malolos",6.0,2.0,2.0,53.0,88.0,Longos,Malolos,Bulacan
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.2,3.0,2.0,66.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.45,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.46,2.0,1.0,46.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.91,3.0,2.0,66.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.27,2.0,1.0,46.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.26,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.5,4.0,3.0,83.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.91,3.0,2.0,66.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.46,2.0,1.0,46.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.45,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.17,2.0,1.0,46.0,96.0,Maliwalo,Tarlac City,Tarlac
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.63,2.0,1.0,46.0,60.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.39,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Divisoria, Mexico",4.71,2.0,2.0,72.0,121.0,Divisoria,Mexico,Pampanga
+"Purok Hurtado Concepcion, Koronadal",2.68,2.0,1.0,40.31,50.4,Concepcion (Bo. 6),Koronadal,South Cotabato
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.35,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"MacArthur Hwy Anonas, Urdaneta",6.29,3.0,2.0,66.0,110.0,Anonas,Urdaneta,Pangasinan
+"San Rafael, Tarlac",4.22,,,169.0,180.0,San Rafael,Tarlac City,Tarlac
+"Aningway Sacatihan, Subic",6.81,3.0,2.0,66.0,146.0,Aningway Sacatihan,Subic,Zambales
+"Alapan II-A, Imus",6.76,4.0,3.0,110.0,100.0,Alapan II-A,Imus,Cavite
+"Divisoria, Mexico",1.64,1.0,1.0,78.7,,Divisoria,Mexico,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",33.79,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.39,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"San Jose, Antipolo",5.7,4.0,3.0,90.0,78.0,San Jose,Antipolo,Rizal
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.35,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.78,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.87,2.0,1.0,50.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6.32,3.0,2.0,66.0,99.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.32,2.0,1.0,46.0,72.0,Maliwalo,Tarlac City,Tarlac
+"Aningway Sacatihan, Subic",7.91,3.0,2.0,66.0,150.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",7.42,5.0,3.0,100.0,121.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",6.09,4.0,3.0,83.0,99.0,Aningway Sacatihan,Subic,Zambales
+"Aguinaldo Highway San Agustin I, Dasmarinas",9.5,4.0,4.0,132.0,66.0,San Agustin I,Dasmariñas,Cavite
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.57,3.0,3.0,219.3,103.0,Cupang,Muntinlupa,Metro Manila
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.78,3.0,2.0,66.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.36,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Divisoria, Mexico",3.19,3.0,2.0,60.0,80.0,Divisoria,Mexico,Pampanga
+"Aningway Sacatihan, Subic",8.28,3.0,2.0,66.0,162.0,Aningway Sacatihan,Subic,Zambales
+"Camella Prima Butuan, Barangay Ampayon, Butuan City Ampayon, Butuan",4.48,2.0,1.0,40.0,88.0,Ampayon,Butuan City,Agusan del Norte
+"Sapang Biabas, Mabalacat",2.22,2.0,1.0,50.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"Cupang, Muntinlupa",31.35,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9.58,5.0,3.0,142.0,132.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.62,5.0,3.0,100.0,110.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.38,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"B.F. Homes, Paranaque",31.8,4.0,5.0,,308.0,B. F. Homes,Parañaque,Metro Manila
+"Aningway Sacatihan, Subic",7.34,4.0,3.0,83.0,146.0,Aningway Sacatihan,Subic,Zambales
+"Mining, Angeles",8.0,3.0,2.0,84.0,84.0,Mining,Angeles,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34.02,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"San Sebastian, Kawit",2.39,3.0,1.0,50.0,50.0,San Sebastian,Kawit,Cavite
+"Bugtong Na Pulo, Lipa",4.93,3.0,1.0,65.0,116.0,Bugtong na Pulo,Lipa City,Batangas
+"Bugtong Na Pulo, Lipa",4.01,2.0,1.0,53.0,52.0,Bugtong na Pulo,Lipa City,Batangas
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.96,5.0,3.0,166.0,143.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.69,4.0,3.0,85.0,141.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.23,2.0,1.0,36.0,65.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.77,2.0,2.0,53.0,89.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.73,5.0,3.0,142.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.86,4.0,3.0,85.0,204.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2.79,2.0,1.0,36.0,42.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.31,2.0,1.0,36.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.65,3.0,2.0,66.0,110.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.08,2.0,2.0,53.0,88.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2.7,2.0,1.0,36.0,40.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.69,5.0,3.0,97.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.26,2.0,1.0,40.0,60.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Aguinaldo Highway San Agustin I, Dasmarinas",9.5,4.0,4.0,132.0,66.0,San Agustin I,Dasmariñas,Cavite
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.09,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Tamiao, Compostela",7.02,4.0,2.0,82.0,120.0,Tamiao,Compostela,Cebu
+"Talaga, Capas",3.57,,2.0,66.0,80.0,Talaga,Capas,Tarlac
+"Caysio Rd. Caysio, Santa Maria",5.18,3.0,2.0,75.26,80.0,Caysio,Santa Maria,Bulacan
+"Longos, Malolos",6.92,3.0,2.0,66.0,99.0,Longos,Malolos,Bulacan
+"Antero Soriano Highway Sahud Ulan, Tanza",2.84,3.0,1.0,45.0,62.0,Sahud Ulan,Tanza,Cavite
+"Cupang, Muntinlupa",43.0,4.0,3.0,400.0,350.0,Cupang,Muntinlupa,Metro Manila
+"DAANG HARI ALABANG Poblacion, Muntinlupa",13.0,4.0,2.0,219.0,120.0,Poblacion,Muntinlupa,Metro Manila
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.3,2.0,1.0,40.0,42.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Tamiao, Compostela",4.39,2.0,2.0,53.0,70.0,Tamiao,Compostela,Cebu
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11.24,5.0,3.0,142.0,176.0,Maliwalo,Tarlac City,Tarlac
+"Pasong Camachile I, General Trias",5.28,3.0,2.0,80.0,92.0,Pasong Camachile I,General Trias,Cavite
+"Longos, Malolos",6.75,3.0,2.0,66.0,99.0,Longos,Malolos,Bulacan
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan I, Dasmarinas",10.75,3.0,3.0,115.0,121.0,Paliparan I,Dasmariñas,Cavite
+"Ungka II, Pavia",3.2,3.0,2.0,60.0,100.0,Ungka II,Pavia,Iloilo
+"Pueblo Solana in Ciudad de Calamba Bubuyan, Calamba",4.68,2.0,1.0,62.8,88.0,Calamba Laguna,Calamba,Laguna
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27.09,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"MacArthur Hwy Anonas, Urdaneta",8.24,3.0,2.0,66.0,141.0,Anonas,Urdaneta,Pangasinan
+"Manna East Dalig, Teresa",4.47,2.0,1.0,40.31,85.0,Manna East Dalig,Teresa,Rizal
+"San Sebastian, Kawit",5.69,3.0,2.0,72.0,100.0,San Sebastian,Kawit,Cavite
+"Tamiao, Compostela",6.03,1.0,1.0,,,Tamiao,Compostela,Cebu
+"Adlas, Silang",12.68,5.0,3.0,142.0,174.0,Adlas,Silang,Cavite
+"Pasong Camachile I, General Trias",6.76,4.0,3.0,110.0,100.0,Pasong Camachile I,General Trias,Cavite
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.22,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",31.11,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31.11,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.95,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa City,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34.6,3.0,3.0,247.4,94.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.36,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.36,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Talaga, Capas",8.72,,2.0,99.0,60.0,Talaga,Capas,Tarlac
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.57,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Caysio Rd. Caysio, Santa Maria",5.18,3.0,2.0,75.26,80.0,Caysio,Santa Maria,Bulacan
+"Purok Hurtado Concepcion, Koronadal",3.53,2.0,1.0,40.31,84.0,Concepcion (Bo. 6),Koronadal,South Cotabato
+"Aningway Sacatihan, Subic",8.46,5.0,3.0,100.0,163.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",3.79,2.0,1.0,40.0,73.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",6.06,3.0,2.0,66.0,95.0,Aningway Sacatihan,Subic,Zambales
+"Arnaldo Highway Santiago, General Trias",4.06,3.0,2.0,54.0,80.0,Santiago,General Trias,Cavite
+"Caingin, San Rafael",1.8,2.0,1.0,46.0,41.0,Caingin,San Rafael,Bulacan
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8.94,5.0,3.0,97.0,145.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.06,4.0,3.0,83.0,99.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",12.38,5.0,3.0,166.0,198.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11.51,5.0,3.0,142.0,202.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.41,2.0,2.0,53.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",2.74,2.0,1.0,36.0,42.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",10.16,5.0,3.0,100.0,176.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8.23,5.0,3.0,100.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",2.87,2.0,1.0,36.0,48.0,Maliwalo,Tarlac City,Tarlac
+"Tamiao, Compostela",5.05,2.0,2.0,53.0,50.0,Tamiao,Compostela,Cebu
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3.07,2.0,1.0,36.0,63.0,Maliwalo,Tarlac City,Tarlac
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.65,5.0,3.0,100.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9.15,5.0,3.0,100.0,141.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.79,2.0,1.0,46.0,64.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.5,3.0,2.0,66.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.03,2.0,1.0,50.0,99.0,Maliwalo,Tarlac City,Tarlac
+"Bugtong Na Pulo, Lipa",5.69,4.0,2.0,80.0,100.0,Bugtong na Pulo,Lipa City,Batangas
+"Arnaldo Highway Santiago, General Trias",4.06,3.0,2.0,54.0,80.0,Santiago,General Trias,Cavite
+"Valle Cruz, Cabanatuan",4.9,3.0,2.0,81.0,117.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"Aningway Sacatihan, Subic",9.18,5.0,3.0,142.0,153.0,Aningway Sacatihan,Subic,Zambales
+"Bugtong Na Pulo, Lipa",5.69,4.0,2.0,80.0,100.0,Bugtong na Pulo,Lipa City,Batangas
+"Julugan I, Tanza",1.65,2.0,1.0,44.0,36.0,Julugan I,Tanza,Cavite
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.65,5.0,3.0,100.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9.15,5.0,3.0,100.0,141.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.5,3.0,2.0,66.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.79,2.0,1.0,46.0,64.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.58,5.0,3.0,166.0,143.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.26,2.0,1.0,46.0,54.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.42,2.0,2.0,53.0,88.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.15,2.0,1.0,36.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2.8,2.0,1.0,36.0,36.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.24,3.0,2.0,53.0,133.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.35,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Tamiao, Compostela",4.39,2.0,2.0,53.0,50.0,Tamiao,Compostela,Cebu
+"Aningway Sacatihan, Subic",5.58,2.0,2.0,53.0,95.0,Aningway Sacatihan,Subic,Zambales
+"MacArthur Hwy Anonas, Urdaneta",8.73,3.0,2.0,66.0,158.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",5.3,3.0,2.0,66.0,88.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.38,3.0,2.0,66.0,174.0,Anonas,Urdaneta,Pangasinan
+"Santa Maria, Mabalacat",1.98,2.0,1.0,38.88,43.2,Santa Maria,Mabalacat City,Pampanga
+"Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",31.35,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.51,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa City,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.33,3.0,3.0,247.4,94.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.18,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34.02,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",32.33,3.0,3.0,247.4,94.0,Cupang,Muntinlupa City,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27.09,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Cupang, Muntinlupa",31.71,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.36,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27.68,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",29.1,3.0,3.0,219.3,106.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",34.02,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Aningway Sacatihan, Subic",4.87,2.0,2.0,53.0,88.0,Aningway Sacatihan,Subic,Zambales
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",11.87,5.0,3.0,142.0,198.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6.89,4.0,3.0,83.0,104.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.0,2.0,1.0,46.0,66.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.19,2.0,1.0,46.0,96.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.49,2.0,1.0,46.0,63.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3.56,2.0,1.0,46.0,63.0,Maliwalo,Tarlac City,Tarlac
+"Aningway Sacatihan, Subic",5.6,2.0,2.0,53.0,115.0,Aningway Sacatihan,Subic,Zambales
+"San Sebastian, Kawit",5.98,3.0,3.0,90.0,100.0,San Sebastian,Kawit,Cavite
+"Aningway Sacatihan, Subic",10.77,5.0,3.0,166.0,176.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",11.74,5.0,3.0,142.0,190.0,Aningway Sacatihan,Subic,Zambales
+"Valle Cruz, Cabanatuan",4.77,3.0,2.0,80.0,203.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"San Sebastian, Kawit",7.41,4.0,3.0,100.0,120.0,San Sebastian,Kawit,Cavite
+"Ungka II, Pavia",4.44,3.0,2.0,72.0,100.0,Ungka II,Pavia,Iloilo
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",8.7,3.0,3.0,84.75,125.21,Banaybanay II,San Jose,Batangas
+"Sapang Biabas, Mabalacat",2.71,3.0,2.0,62.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.95,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",8.7,3.0,3.0,84.75,125.21,Banaybanay II,San Jose,Batangas
+"Valle Cruz, Cabanatuan",7.45,3.0,2.0,80.0,203.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"Pasong Camachile I, General Trias",5.69,3.0,2.0,72.0,100.0,Pasong Camachile I,General Trias,Cavite
+"Talaga, Capas",9.27,,2.0,99.0,60.0,Talaga,Capas,Tarlac
+"MacArthur Hwy Anonas, Urdaneta",5.69,2.0,2.0,53.0,110.0,Anonas,Urdaneta,Pangasinan
+"Aningway Sacatihan, Subic",13.48,5.0,3.0,166.0,230.0,Aningway Sacatihan,Subic,Zambales
+"San Sebastian, Kawit",7.41,4.0,3.0,100.0,120.0,San Sebastian,Kawit,Cavite
+"Talaga, Capas",9.27,,2.0,99.0,60.0,Talaga,Capas,Tarlac
+"MacArthur Hwy Anonas, Urdaneta",8.43,2.0,2.0,53.0,246.0,Anonas,Urdaneta,Pangasinan
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.68,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Valle Cruz, Cabanatuan",5.77,4.0,2.0,96.0,196.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.95,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",8.7,3.0,3.0,84.75,125.21,Banaybanay II,San Jose,Batangas
+"Longos, Malolos",4.08,2.0,1.0,36.0,74.0,Longos,Malolos,Bulacan
+"Longos, Malolos",12.58,4.0,3.0,83.0,132.0,Longos,Malolos,Bulacan
+"Longos, Malolos",7.42,4.0,3.0,85.0,99.0,Longos,Malolos,Bulacan
+"Longos, Malolos",4.41,2.0,1.0,36.0,63.0,Longos,Malolos,Bulacan
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.61,2.0,1.0,46.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Aningway Sacatihan, Subic",10.18,5.0,3.0,142.0,142.0,Aningway Sacatihan,Subic,Zambales
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.7,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.43,2.0,1.0,40.0,64.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.16,5.0,3.0,100.0,121.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",7.76,4.0,3.0,83.0,110.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",2.72,2.0,1.0,36.0,42.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",3.23,2.0,1.0,36.0,54.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Antero-Soriano Hwy, Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3.64,2.0,1.0,39.64,100.0,Sahud Ulan,Tanza,Cavite
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.06,5.0,3.0,166.0,143.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.61,5.0,3.0,100.0,132.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",10.35,5.0,3.0,142.0,143.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",8.09,4.0,3.0,85.0,120.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.78,2.0,2.0,53.0,96.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Aningway Sacatihan, Subic",12.87,5.0,3.0,166.0,198.0,Aningway Sacatihan,Subic,Zambales
+"San Isidro, Cainta",10.5,3.0,3.0,120.0,132.0,San Isidro,Cainta,Rizal
+"Km.71, North Luzon Expressway Panipuan, Mexico",3.12,3.0,2.0,89.54,154.0,Panipuan,Mexico,Pampanga
+"Aningway Sacatihan, Subic",12.04,5.0,3.0,166.0,190.0,Aningway Sacatihan,Subic,Zambales
+"Buhay na Tubig, Imus",15.5,2.0,1.0,60.0,185.0,Buhay na Tubig,Imus,Cavite
+"Cabuco, Trece Martires",2.09,2.0,2.0,40.0,45.0,Cabuco,Trece Martires City,Cavite
+"Efigenio Lizares, Talisay",3.08,2.0,1.0,34.2,84.0,Efigenio Lizares,Talisay,Negros Occidental
+"Sucat, Muntinlupa",7.11,,,79.0,,Sucat,Muntinlupa,Metro Manila
+"Cabuco, Trece Martires",1.92,2.0,2.0,38.0,36.0,Cabuco,Trece Martires City,Cavite
+"Aningway Sacatihan, Subic",6.48,4.0,3.0,83.0,110.0,Aningway Sacatihan,Subic,Zambales
+"Poblacion, Makati",85.0,,,890.0,481.5,Poblacion,Makati City,Metro Manila
+"Orange Grv, 8000 Davao City, Philippines Matina Pangi, Davao",8.0,4.0,3.0,133.5,122.0,Talomo,Davao City,Davao del Sur
+"Buhangin, Davao",17.5,5.0,4.0,260.0,232.0,Buhangin,Davao City,Davao del Sur
+"Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",5.82,,,67.5,100.0,Sahud Ulan,Tanza,Cavite
+"Alapan II-A, Imus",7.41,4.0,3.0,100.0,120.0,Alapan II-A,Imus,Cavite
+"Antero-Soriano Hwy, Remulla Drive Tanza-Naic Rd. Sahud Ulan, Tanza",3.65,3.0,1.0,67.5,100.0,Sahud Ulan,Tanza,Cavite
+"Arnaldo Highway Santiago, General Trias",4.06,3.0,2.0,54.0,80.0,Santiago,General Trias,Cavite
+"Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa City,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.63,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.39,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.09,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.95,3.0,3.0,219.3,91.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",29.2,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",28.64,3.0,3.0,219.3,105.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.54,3.0,3.0,247.4,93.0,Cupang,Muntinlupa,Metro Manila
+"Km. 19 West Service Rd. Cupang, Muntinlupa",26.98,3.0,3.0,219.3,92.0,Cupang,Muntinlupa,Metro Manila
+"Cabuco, Trece Martires",2.09,2.0,2.0,40.0,45.0,Cabuco,Trece Martires City,Cavite
+"Carsadang Bago I, Imus",5.23,3.0,2.0,75.0,80.0,Carsadang Bago I,Imus,Cavite
+"Bilibiran, Binangonan",2.5,5.0,3.0,142.0,397.0,Bilibiran,Binangonan,Rizal
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.8,4.0,3.0,83.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.36,2.0,1.0,46.0,72.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.06,2.0,1.0,40.0,63.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.87,3.0,2.0,66.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8.08,4.0,3.0,85.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.94,2.0,1.0,36.0,115.0,Maliwalo,Tarlac City,Tarlac
+"Purok Hurtado Concepcion, Koronadal",3.14,2.0,1.0,40.31,78.4,Concepcion (Bo. 6),Koronadal,South Cotabato
+"Carsadang Bago I, Imus",5.23,3.0,2.0,75.0,80.0,Carsadang Bago I,Imus,Cavite
+"Aningway Sacatihan, Subic",6.75,4.0,3.0,83.0,121.0,Aningway Sacatihan,Subic,Zambales
+"Km. 19 West Service Rd. Cupang, Muntinlupa",27.09,3.0,3.0,219.3,90.0,Cupang,Muntinlupa,Metro Manila
+"Aningway Sacatihan, Subic",12.07,5.0,3.0,142.0,246.0,Aningway Sacatihan,Subic,Zambales
+"Aningway Sacatihan, Subic",5.36,2.0,2.0,53.0,88.0,Aningway Sacatihan,Subic,Zambales
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8.08,4.0,3.0,85.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.87,3.0,2.0,66.0,88.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.8,4.0,3.0,83.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.36,2.0,1.0,46.0,72.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",5.07,2.0,1.0,50.0,91.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",12.94,5.0,3.0,166.0,236.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.06,2.0,1.0,40.0,63.0,Maliwalo,Tarlac City,Tarlac
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.94,2.0,1.0,36.0,115.0,Maliwalo,Tarlac City,Tarlac
+"Bilibiran, Binangonan",2.5,5.0,3.0,142.0,397.0,Bilibiran,Binangonan,Rizal
+"Sapang Biabas, Mabalacat",2.22,2.0,1.0,50.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"MacArthur Hwy Anonas, Urdaneta",4.71,2.0,2.0,53.0,88.0,Anonas,Urdaneta,Pangasinan
+"Efigenio Lizares, Talisay",3.18,2.0,1.0,40.31,84.0,Efigenio Lizares,Talisay,Negros Occidental
+"MacArthur Hwy Anonas, Urdaneta",5.3,2.0,2.0,53.0,96.0,Anonas,Urdaneta,Pangasinan
+"Km.71, North Luzon Expressway Panipuan, Mexico",2.15,3.0,2.0,61.33,154.0,Panipuan,Mexico,Pampanga
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan III, Dasmarinas",14.45,5.0,3.0,142.0,154.0,Paliparan III,Dasmariñas,Cavite
+"Pasong Camachile I, General Trias",3.34,4.0,2.0,70.0,60.0,Pasong Camachile I,General Trias,Cavite
+"Longos, Malolos",4.2,2.0,1.0,40.0,63.0,Longos,Malolos,Bulacan
+"Longos, Malolos",5.73,2.0,2.0,53.0,88.0,Longos,Malolos,Bulacan
+"Longos, Malolos",5.54,2.0,1.0,36.0,104.0,Longos,Malolos,Bulacan
+"Longos, Malolos",7.81,3.0,2.0,66.0,99.0,Longos,Malolos,Bulacan
+"Longos, Malolos",8.3,5.0,3.0,100.0,110.0,Longos,Malolos,Bulacan
+"Longos, Malolos",4.47,2.0,1.0,46.0,63.0,Longos,Malolos,Bulacan
+"Km. 19 West Service Rd. Cupang, Muntinlupa",32.18,3.0,3.0,247.4,92.0,Cupang,Muntinlupa,Metro Manila
+"Aningway Sacatihan, Subic",4.59,2.0,1.0,46.0,63.0,Aningway Sacatihan,Subic,Zambales
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.16,2.0,1.0,46.0,60.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.88,4.0,3.0,85.0,110.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.26,3.0,2.0,66.0,96.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.56,3.0,2.0,66.0,99.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",9.0,5.0,3.0,100.0,141.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",6.35,3.0,2.0,66.0,96.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Almanza Dos, Las Pinas",35.0,5.0,5.0,380.0,350.0,Almanza Dos,Las Piñas,Metro Manila
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.9,2.0,1.0,46.0,60.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",5.28,2.0,1.0,46.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.28,2.0,1.0,46.0,60.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.36,2.0,1.0,36.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Emilio Vergara Hwy Santa Arcadia, Cabanatuan",4.39,2.0,1.0,40.0,63.0,Santa Arcadia,Cabanatuan City,Nueva Ecija
+"Zambowood Rd. Boalan, Zamboanga",2.45,2.0,1.0,40.32,50.4,Boalan,Zamboanga City,Zamboanga del Sur
+"Perrelos, Carcar",11.0,3.0,3.0,442.0,283.0,Perrelos,Carcar,Cebu
+"San Isidro, Cainta",14.7,4.0,3.0,255.0,187.0,San Isidro,Cainta,Rizal
+"Bintog, Plaridel",3.31,,,144.0,105.0,Bintog,Plaridel,Bulacan
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",4.54,2.0,1.0,36.0,98.0,Maliwalo,Tarlac City,Tarlac
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",4.06,2.0,2.0,48.26,50.0,Banaybanay II,San Jose,Batangas
+"Carsadang Bago I, Imus",5.23,3.0,2.0,75.0,80.0,Carsadang Bago I,Imus,Cavite
+"Divisoria, Mexico",2.53,2.0,2.0,48.0,45.5,Divisoria,Mexico,Pampanga
+"The Wood Estates, Brgy. Hugo Perez, Trece Martires",2.15,1.0,1.0,27.21,69.0,Perez (Lucbanan),Trece Martires City,Cavite
+"President Jose P. Laurel Hwy Banaybanay II, San Jose",4.06,2.0,2.0,48.26,50.0,Banaybanay II,San Jose,Batangas
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan III, Dasmarinas",14.99,5.0,3.0,166.0,154.0,Paliparan III,Dasmariñas,Cavite
+"Talaga, Capas",3.06,,2.0,66.0,80.0,Talaga,Capas,Tarlac
+"Sapang Biabas, Mabalacat",2.22,2.0,1.0,50.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"#91 ( Lot 16 Block LCH-1 ) Waling-Waling Street Roxas District Quezon City Metro Manila Roxas, Quezon City",5.0,,,167.5,200.0,Roxas District,Quezon City,Metro Manila
+"Santa Maria, Mabalacat",3.83,3.0,,53.6,88.0,Santa Maria,Mabalacat City,Pampanga
+"Metrocor-B Homes, Talon 5, Las Pinas City Talon Singko, Las Pinas",8.9,4.0,3.0,143.0,80.0,Talon 5,Las Piñas,Metro Manila
+"San Juan - Laiya Rd. Calubcub II, San Juan",12.1,3.0,2.0,100.0,200.0,Calubcub II,San Juan,Batangas
+"Alfonso, Concepcion",3.34,3.0,2.0,107.6,100.0,Alfonso,Concepcion,Tarlac
+"B.F. Homes, Paranaque",35.0,4.0,6.0,330.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"San Juan - Laiya Rd. Calubcub II, San Juan",18.77,3.0,2.0,100.0,200.0,Calubcub II,San Juan,Batangas
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",9.68,5.0,3.0,100.0,148.0,Maliwalo,Tarlac City,Tarlac
+"San Juan - Laiya Rd. Calubcub II, San Juan",15.45,4.0,3.0,150.0,200.0,Calubcub II,San Juan,Batangas
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.41,2.0,1.0,36.0,205.0,Maliwalo,Tarlac City,Tarlac
+"Tugbok, Davao",8.5,3.0,3.0,74.26,80.0,Tugbok,Davao City,Davao del Sur
+"Calubcub II, San Juan",30.0,3.0,3.0,337.0,312.0,Calubcub II,San Juan,Batangas
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",8.23,4.0,3.0,85.0,121.0,Maliwalo,Tarlac City,Tarlac
+"Pamplona Tres, Las Pinas",17.5,4.0,4.0,160.0,91.5,Pamplona Tres,Las Piñas,Metro Manila
+"Cale, Tanauan",1.5,1.0,1.0,27.21,60.0,Cale,Tanauan City,Batangas
+"Bugtong Na Pulo, Lipa",9.84,5.0,3.0,150.0,150.0,Bugtong na Pulo,Lipa City,Batangas
+"Santa Maria-San Jose Rd. Bulac, Santa Maria",1.68,1.0,1.0,44.0,40.0,Bulac,Santa Maria,Bulacan
+"Cupang, Antipolo",17.89,4.0,3.0,246.0,121.0,Cupang,Antipolo,Rizal
+"Santa Monica, Quezon City",18.29,3.0,3.0,176.0,79.0,Santa Monica,Quezon City,Metro Manila
+"Caysio Rd. Caysio, Santa Maria",5.18,3.0,2.0,75.26,80.0,Caysio,Santa Maria,Bulacan
+"Aningway Sacatihan, Subic",6.25,3.0,2.0,66.0,118.0,Aningway Sacatihan,Subic,Zambales
+"Almanza Dos, Las Pinas",18.0,4.0,3.0,382.0,192.0,Almanza Dos,Las Piñas,Metro Manila
+"MacArthur Hwy Anonas, Urdaneta",5.44,2.0,2.0,53.0,96.0,Anonas,Urdaneta City,Pangasinan
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",6.35,3.0,2.0,66.0,104.0,Maliwalo,Tarlac City,Tarlac
+"Bugtong Na Pulo, Lipa",7.37,3.0,2.0,103.0,132.0,Bugtong na Pulo,Lipa City,Batangas
+"Talaga, Capas",3.19,,2.0,75.0,90.0,Talaga,Capas,Tarlac
+"Eden, Mexico",6.31,5.0,3.0,107.0,141.0,Eden,Mexico,Pampanga
+"Aningway Sacatihan, Subic",5.71,3.0,2.0,66.0,99.0,Aningway Sacatihan,Subic,Zambales
+"San Sebastian, Kawit",6.65,3.0,2.0,84.0,120.0,San Sebastian,Kawit,Cavite
+"Aningway Sacatihan, Subic",3.98,2.0,1.0,46.0,74.0,Aningway Sacatihan,Subic,Zambales
+"Matandang Balara, Quezon City",110.0,12.0,12.0,1200.0,1000.0,Matandang Balara,Quezon City,Metro Manila
+"Mercedes Ave, Pasig, 1600 Metro Manila 14.566745440863722, 121.09773643837426 San Miguel, Pasig",19.5,3.0,3.0,183.0,110.0,San Miguel,Pasig,Metro Manila
+"Olive St, 1900 Cainta, Philippines San Juan, Cainta",18.0,6.0,4.0,244.0,158.0,San Andres,Cainta,Rizal
+"21 Stirrup St., Rancho Estate 2 Subd., Cupang, Antipolo City Concepcion Dos, Marikina",10.9,5.0,3.0,180.0,120.0,Cupang,Marikina,Rizal
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",7.2,4.0,3.0,83.0,110.0,Maliwalo,Tarlac City,Tarlac
+"Laguerta, Calamba",4.5,3.0,2.0,95.0,169.0,Laguerta,Calamba,Laguna
+"San Vicente, Urdaneta",4.0,3.0,2.0,60.0,247.0,San Vicente,Urdaneta City,Pangasinan
+"Dalig, Antipolo",13.25,3.0,2.0,60.0,121.0,Dalig,Antipolo,Rizal
+"Anonas, Urdaneta",6.73,3.0,2.0,66.0,99.0,Anonas,Urdaneta City,Pangasinan
+"Anonas, Urdaneta",8.12,4.0,3.0,83.0,121.0,Anonas,Urdaneta City,Pangasinan
+"Malagasang I-C, Imus",2.69,2.0,1.0,50.0,60.0,Malagasang I-C,Imus,Cavite
+"San Sebastian, Kawit",5.28,3.0,2.0,80.0,92.0,San Sebastian,Kawit,Cavite
+"Tunasan, Muntinlupa",16.88,5.0,3.0,195.0,240.0,Tunasan,Muntinlupa,Metro Manila
+"Anonas, Urdaneta",11.58,5.0,3.0,166.0,154.0,Anonas,Urdaneta City,Pangasinan
+"Robredo Street San Isidro, Koronadal",10.79,5.0,3.0,166.0,143.0,San Isidro,Koronadal,South Cotabato
+"Camella Tarlac Access Rd. Maliwalo, Tarlac",3.9,2.0,1.0,40.0,66.0,Maliwalo,Tarlac City,Tarlac
+"Anonas, Urdaneta",6.73,3.0,2.0,66.0,99.0,Anonas,Urdaneta City,Pangasinan
+"Valle Cruz, Cabanatuan",3.96,2.0,2.0,75.0,135.0,Valle Cruz,Cabanatuan City,Nueva Ecija
+"Bayani Rd, 3023 San Jose del Monte, Philippines Tungkong Mangga, San Jose del Monte",5.3,3.0,1.0,102.0,63.0,Tungkong Mangga,San Jose del Monte,Bulacan
+"Banawang, Malasiqui",2.25,2.0,1.0,56.0,54.0,Banawang,Malasiqui,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.08,3.0,2.0,66.0,121.0,Anonas,Urdaneta City,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.27,3.0,2.0,66.0,142.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.16,3.0,2.0,66.0,117.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.47,3.0,2.0,66.0,121.0,Anonas,Urdaneta City,Pangasinan
+"San Vicente Rd. San Vicente, San Pedro",10.15,3.0,2.0,,150.0,San Vicente,San Pedro,Laguna
+"MacArthur Hwy Anonas, Urdaneta",9.43,4.0,3.0,83.0,157.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.93,4.0,3.0,85.0,110.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.65,5.0,3.0,142.0,154.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.99,5.0,3.0,142.0,132.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.76,5.0,3.0,100.0,145.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",11.58,5.0,3.0,166.0,154.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.02,5.0,3.0,142.0,133.0,Anonas,Urdaneta,Pangasinan
+"Pueblo Solana, Ciudad de Calamba Bubuyan, Calamba",1.74,1.0,1.0,29.16,70.0,Bubuyan,Calamba,Laguna
+"MacArthur Hwy Anonas, Urdaneta",5.46,3.0,2.0,66.0,89.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.68,3.0,2.0,66.0,125.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.8,3.0,2.0,66.0,101.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.76,3.0,2.0,66.0,100.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.01,3.0,2.0,66.0,100.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.02,4.0,3.0,83.0,174.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.67,4.0,3.0,85.0,246.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.26,4.0,3.0,85.0,110.0,Anonas,Urdaneta City,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.82,4.0,3.0,85.0,99.0,Anonas,Urdaneta,Pangasinan
+"Morong, Calabarzon, Philippines Morong",1.6,2.0,1.0,44.0,36.0,,Morong,Rizal
+"MacArthur Hwy Anonas, Urdaneta",12.16,5.0,3.0,166.0,168.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.72,4.0,3.0,85.0,121.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.95,4.0,3.0,83.0,172.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.91,4.0,3.0,83.0,142.0,Anonas,Urdaneta City,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.5,4.0,3.0,83.0,130.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.05,5.0,3.0,100.0,246.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.62,3.0,2.0,66.0,110.0,Anonas,Urdaneta City,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",5.9,3.0,2.0,66.0,96.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.79,3.0,2.0,66.0,157.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.31,3.0,2.0,66.0,172.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.56,3.0,2.0,66.0,153.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.03,3.0,2.0,66.0,246.0,Anonas,Urdaneta City,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",4.22,2.0,1.0,46.0,56.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.88,4.0,3.0,83.0,141.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",4.95,2.0,1.0,46.0,63.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",13.46,5.0,3.0,166.0,174.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.37,5.0,3.0,142.0,143.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",11.94,5.0,3.0,142.0,157.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",9.37,4.0,3.0,83.0,158.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.12,4.0,3.0,83.0,121.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",7.86,3.0,2.0,66.0,130.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",6.73,3.0,2.0,66.0,99.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.2,3.0,2.0,66.0,140.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",11.29,5.0,3.0,142.0,143.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",11.48,5.0,3.0,166.0,174.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",10.99,5.0,3.0,142.0,161.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.85,4.0,3.0,83.0,140.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",8.33,4.0,3.0,83.0,125.0,Anonas,Urdaneta,Pangasinan
+"MacArthur Hwy Anonas, Urdaneta",5.0,2.0,1.0,46.0,63.0,Anonas,Urdaneta,Pangasinan
+"Almanza Dos, Las Pinas",24.3,4.0,5.0,338.0,196.0,Almanza Dos,Las Piñas,Metro Manila
+"Alabang, Muntinlupa",10.84,3.0,3.0,140.0,240.0,Alabang,Muntinlupa City,Metro Manila
+"Canlubang, Calamba",6.8,2.0,1.0,52.0,130.0,Canlubang,Calamba,Laguna
+"Sun Valley, Paranaque",19.5,4.0,4.0,250.0,430.0,Sun Valley,Parañaque,Metro Manila
+"San Miguel Village, Makati",78.0,4.0,2.0,300.0,325.0,San Miguel Village,Makati City,Metro Manila
+"San Roque, Antipolo",6.5,3.0,3.0,103.0,60.0,San Roque,Antipolo,Rizal
+"CPG Avenue cor Katipunan Street Mansasa, Tagbilaran",40.0,10.0,8.0,,1574.0,Mansasa,Tagbilaran City,Bohol
+"Neopolitan, Fairview, Quezon City Fairview, Quezon City",45.0,6.0,6.0,600.0,600.0,Fairview,Quezon City,Metro Manila
+"Lingsat, Santa Maria",6.5,3.0,2.0,194.0,746.0,Lingsat,Santa Maria,Ilocos Sur
+"Quiling, Talisay",69.0,3.0,4.0,370.0,807.0,Quiling,Talisay,Batangas
+"Villagio di Xavier Prima Casa , Binan, Laguna Mampalasan, Binan",8.7,4.0,4.0,100.0,140.0,Mampalasan,Biñan,Laguna
+"Afpovai, Western Bicutan, Taguig City Western Bicutan, Taguig",55.0,4.0,4.0,410.0,200.0,Western Bicutan,Taguig,Metro Manila
+"Ayala Alabang, Muntinlupa",139.25,5.0,5.0,337.0,557.0,New Alabang Village,Muntinlupa,Metro Manila
+"Villa Magallanes Subdivision Agus, Lapu Lapu City Agus, Lapu-Lapu",15.0,3.0,,280.0,150.0,Agus,Lapu-Lapu,Cebu
+"Tali Beach Balagtas, Batangas City",200.0,5.0,5.0,700.0,804.0,Balagtas,Batangas City,Batangas
+Calamba,30.0,4.0,4.0,302.0,250.0,,Calamba,Laguna
+"Matandang Balara, Quezon City",85.0,4.0,5.0,474.0,448.0,Matandang Balara,Quezon City,Metro Manila
+"Bel-Air, Makati",268.0,5.0,4.0,,665.0,Bel-Air,Makati City,Metro Manila
+"Scout Area Diliman, Quezon City",35.53,3.0,4.0,201.0,104.0,Diliman,Quezon City,Metro Manila
+"Halayhay, Tanza",4.03,3.0,2.0,55.0,80.0,Halayhay,Tanza,Cavite
+"Zone 15, Talisay",19.5,4.0,5.0,400.0,352.0,Zone 15,Talisay,Negros Occidental
+"Pulung Maragul, Angeles",11.0,3.0,2.0,,300.0,Pulung Maragul,Angeles,Pampanga
+"Dalig, Antipolo",13.25,4.0,3.0,85.0,99.0,Dalig,Antipolo,Rizal
+"Paliparan I, Dasmarinas",9.15,4.0,3.0,187.0,132.0,Paliparan I,Dasmariñas,Cavite
+"Almanza Dos, Las Pinas",37.15,3.0,3.0,208.0,240.0,Almanza Dos,Las Piñas,Metro Manila
+"Pilar, Las Pinas",9.8,3.0,3.0,180.0,120.0,Pilar,Las Piñas,Metro Manila
+"Fluer De Lis Village Larion Alto, Tuguegarao",4.4,3.0,2.0,110.0,201.0,Larion Alto,Tuguegarao City,Cagayan
+"Inchican, Silang",89.0,4.0,4.0,600.0,396.0,Inchican,Silang,Cavite
+"Exclusive Subdivision near SM Telabastagan Telabastagan, San Fernando",16.9,5.0,4.0,315.0,240.0,BRGY,San Fernando,Pampanga
+"Blk 1 Lot 20 Sentrina Alaminos Brgy.San Benito,Alaminos,Laguna Along Maharlika National Highway San Benito, Alaminos",4.31,3.0,2.0,85.0,89.0,San Benito,Alaminos,Laguna
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan II, Dasmarinas",10.65,4.0,3.0,115.0,121.0,Paliparan II,Dasmariñas,Cavite
+"Sta. Maria-Pandi Rd, Pandi, Philippines Poblacion, Pandi",2.27,2.0,1.0,40.0,44.0,Poblacion,Pandi,Bulacan
+"Sampaloc II, Dasmarinas",10.9,3.0,4.0,103.0,168.0,Sampaloc II,Dasmariñas,Cavite
+"San Pedro, San Pablo",10.13,3.0,2.0,100.0,212.0,,San Pablo City,Laguna
+"Almanza Dos, Las Pinas",22.68,3.0,3.0,161.0,120.0,Almanza Dos,Las Piñas,Metro Manila
+"Molino III, Bacoor",15.0,5.0,3.0,174.0,160.0,Molino III,Bacoor,Cavite
+"Royale Tagaytay Estates, Cavite Buck Estate, Alfonso",25.0,4.0,4.0,280.0,317.0,Buck Estate,Alfonso,Cavite
+"Paliparan II, Dasmarinas",9.91,3.0,2.0,98.0,121.0,Paliparan II,Dasmariñas,Cavite
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan II, Dasmarinas",14.91,5.0,3.0,166.0,169.0,Paliparan II,Dasmariñas,Cavite
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan II, Dasmarinas",7.09,2.0,2.0,53.0,99.0,Paliparan II,Dasmariñas,Cavite
+"Calaboon, Dumanjug",50.0,4.0,5.0,,1000.0,Calaboon,Dumanjug,Cebu
+"Binan, Binan",11.5,3.0,2.0,118.0,90.0,,Biñan,Laguna
+"Phirst Park Homes Calauan, Laguna, Philippines Masiit, Calauan",,1.0,1.0,41.0,36.0,Masiit,Calauan,Laguna
+"Llano Road Llano, Caloocan",4.5,3.0,2.0,77.0,80.0,167,Caloocan,Metro Manila
+"Pamplona Tres, Las Pinas",17.5,5.0,4.0,160.0,91.5,Pamplona Tres,Las Piñas,Metro Manila
+"Manibaug Paralaya, Porac",2.29,3.0,1.0,62.5,50.0,Manibaug Paralaya,Porac,Pampanga
+"Stone Bridge Estates Mabuhay, Carmona",5.0,3.0,2.0,85.0,80.0,Mabuhay,Carmona,Cavite
+"Diliman, Quezon City",42.5,5.0,5.0,500.0,126.0,Diliman,Quezon City,Metro Manila
+"Citta Italia Roma, Bacoor Cavite Molino III, Bacoor",13.5,5.0,3.0,174.0,160.0,Molino III,Bacoor,Cavite
+"Santiago, General Trias, Calabarzon, Philippines Santiago, General Trias",4.0,3.0,2.0,54.0,80.0,Santiago,General Trias,Cavite
+"PHirst Park Homes Lipa Cove, San Lucas, Lipa, Batangas, Philippines San Lucas, Lipa",1.66,2.0,1.0,36.0,40.0,San Lucas,Lipa City,Batangas
+"Governor's Dr, 4114 Dasmarinas, Philippines Paliparan II, Dasmarinas",14.37,5.0,3.0,142.0,168.0,Paliparan II,Dasmariñas,Cavite
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19.5,5.0,4.0,312.0,94.0,Culiat,Quezon City,Metro Manila
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19.5,5.0,4.0,312.0,94.0,Culiat,Quezon City,Metro Manila
+"Almanza Dos, Las Pinas",150.0,3.0,4.0,600.0,375.0,Almanza Dos,Las Piñas,Metro Manila
+"Bambang, Taguig",35.0,4.0,2.0,310.0,105.0,Bambang,Taguig,Metro Manila
+"San Isidro, Cainta",13.9,4.0,4.0,143.0,182.0,San Isidro,Cainta,Rizal
+"McKinley Hill, Taguig",112.0,5.0,6.0,642.0,288.0,Mckinley Hill,Taguig,Metro Manila
+"Silangan, San Mateo",19.1,3.0,3.0,113.0,295.0,Silangan,San Mateo,Rizal
+"Buenavista, Pagadian City, Zamboanga Peninsula, Philippines Buenavista, Pagadian",0.3,3.0,2.0,80.0,100.0,Buenavista,Pagadian City,Zamboanga del Sur
+"Mabuhay, Carmona",5.68,3.0,2.0,90.0,88.0,Mabuhay,Carmona,Cavite
+"Catalunan Pequeno, Davao",1.5,2.0,1.0,30.0,77.0,Talomo,Davao City,Davao del Sur
+"San Luis Village, Baguio City, Cordillera Administrative Region, Philippines San Luis Village, Baguio",10.0,5.0,3.0,,250.0,San Luis Village,Baguio,Benguet
+"San Isidro, Antipolo",5.97,3.0,2.0,64.0,60.0,San Isidro,Antipolo,Rizal
+"Bacayan, Cebu",10.5,4.0,3.0,199.0,143.0,Bacayan,Cebu City,Cebu
+"Brgy Pasong Buaya II Imus Cavite Daang Hari Pasong Buaya II, Imus",11.6,3.0,2.0,67.0,132.0,Pasong Buaya II,Imus,Cavite
+"Pampanga, Davao",13.8,,5.0,623.0,1128.0,Buhangin,Davao City,Davao del Sur
+"Tuyo, Balanga",2.9,2.0,1.0,40.0,66.0,Tuyo,Balanga City,Bataan
+Silang,16.8,3.0,3.0,165.0,119.0,,Silang,Cavite
+"Capaya, Angeles",12.0,4.0,4.0,180.0,120.0,Capaya,Angeles,Pampanga
+"Pakigne, Minglanilla",13.6,3.0,3.0,318.0,1200.0,Pakigne,Minglanilla,Cebu
+"San Fernando Pampanga Telabastagan, San Fernando",29.9,5.0,5.0,650.0,540.0,Telabastagan,San Fernando,Pampanga
+"Telabastagan, San Fernando",25.0,5.0,4.0,250.0,520.0,Telabastagan,San Fernando,Pampanga
+"South Drive, Baguio",45.0,4.0,5.0,518.0,144.0,,Baguio,Benguet
+Calatagan,12.0,8.0,,,25000.0,,Calatagan,Batangas
+"B.F. Homes, Paranaque",17.5,4.0,3.0,160.0,204.0,B. F. Homes,Parañaque,Metro Manila
+"Lamac, Consolacion",12.5,4.0,3.0,227.0,209.0,Lamac,Consolacion,Cebu
+"Alfonso, Concepcion",3.69,4.0,3.0,122.94,112.5,Alfonso,Concepcion,Tarlac
+"A. Ponciano St, 1441 Valenzuela, Philippines Marulas, Valenzuela",9.2,3.0,3.0,120.0,65.0,Marulas,Valenzuela,Metro Manila
+"Catalunan Grande, Davao",14.2,4.0,4.0,200.0,332.0,Talomo,Davao City,Davao del Sur
+Caloocan,4.5,3.0,1.0,96.0,,,Caloocan,Metro Manila
+"Don Bosco, Paranaque",23.5,5.0,4.0,276.0,215.0,Don Bosco,Parañaque,Metro Manila
+"Fairview, Quezon City",5.71,3.0,3.0,116.0,43.0,Fairview,Quezon City,Metro Manila
+"Loyola Heights, Quezon City",98.0,6.0,5.0,350.0,1000.0,Loyola Heights,Quezon City,Metro Manila
+"Matandang Balara, Quezon City",85.0,4.0,5.0,600.0,587.0,Matandang Balara,Quezon City,Metro Manila
+"Sindalan, San Fernando",6.06,4.0,3.0,150.0,164.0,Sindalan,San Fernando,Pampanga
+"Dapdap, Mabalacat",1.6,3.0,1.0,45.0,40.25,Dapdap,Mabalacat City,Pampanga
+"Marauoy, Lipa",10.21,4.0,3.0,172.0,165.0,Marauoy,Lipa City,Batangas
+"B.F. Homes, Paranaque",26.0,4.0,3.0,256.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"DECA HOME CLARK RESIDENCES, MARGOT ANGELES PAMPANGA Margot, Angeles",2.8,2.0,2.0,140.0,70.0,Barangay Margot,Angeles,Pampanga
+"Banilad, Cebu",65.0,6.0,8.0,918.0,566.0,Banilad,Cebu City,Cebu
+"Kamuning, Quezon City",13.0,5.0,4.0,170.0,60.0,Kamuning,Quezon City,Metro Manila
+"Amsic, Angeles",25.0,5.0,5.0,246.0,289.0,Amsic,Angeles,Pampanga
+"Asin Road, Baguio",60.0,4.0,5.0,310.0,537.0,,Baguio,Benguet
+"Linao, Talisay, Central Visayas, Philippines Linao, Talisay",14.8,5.0,4.0,227.0,420.0,Linao,Talisay,Cebu
+"Lantic, Carmona",5.23,4.0,2.0,104.0,100.0,Lantic,Carmona,Cavite
+"Culiat, Quezon City",12.5,4.0,4.0,140.0,78.0,Culiat,Quezon City,Metro Manila
+"Maple St., St. Jude Subd., Malinta, 1440 Valenzuela, Philippines Malinta, Valenzuela",9.5,5.0,4.0,120.0,60.0,Malinta,Valenzuela,Metro Manila
+"Ayala Alabang, Muntinlupa",170.0,6.0,5.0,750.0,574.0,New Alabang Village,Muntinlupa,Metro Manila
+"Dontogan, Baguio",27.0,5.0,2.0,350.0,180.0,Dontogan,Baguio,Benguet
+"San Isidro, Paranaque",8.8,4.0,3.0,190.0,105.0,San Isidro,Parañaque,Metro Manila
+"Sabang, Naic, Calabarzon, Philippines Sabang, Naic",1.46,2.0,1.0,45.5,54.0,sabang,Naic,Cavite
+"B.F. Homes, Paranaque",16.5,3.0,3.0,200.0,150.0,B. F. Homes,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",400.0,5.0,5.0,1000.0,855.0,New Alabang Village,Muntinlupa,Metro Manila
+"Sindalan, San Fernando",7.05,4.0,3.0,135.0,164.0,Sindalan,San Fernando,Pampanga
+"B.F. Homes, Paranaque",21.0,4.0,4.0,260.0,189.0,B. F. Homes,Parañaque,Metro Manila
+"Along Governor Ferrer Drive Pasong Kawayan I, General Trias",2.9,3.0,2.0,60.75,69.0,Pasong Kawayan I,General Trias,Cavite
+"Ayala Alabang, Muntinlupa",200.0,4.0,4.0,1200.0,690.0,New Alabang Village,Muntinlupa,Metro Manila
+"Valle Verde 1, Pasig",45.0,3.0,3.0,170.0,150.0,Valle Verde 1,Pasig,Metro Manila
+"Culiat, Quezon City",12.0,4.0,4.0,220.0,85.0,Culiat,Quezon City,Metro Manila
+"Concepcion Dos, Marikina",19.5,4.0,3.0,200.0,373.0,Concepcion Dos,Marikina,Metro Manila
+"Telabastagan, San Fernando",8.3,3.0,2.0,135.0,150.0,Telabastagan,San Fernando,Pampanga
+"Bahay Toro, Quezon City, National Capital Region, Philippines Project 8, Quezon City",16.5,4.0,3.0,214.0,86.0,Project 8,Quezon City,Metro Manila
+"Matandang Balara, Quezon City",160.0,6.0,5.0,800.0,1000.0,Matandang Balara,Quezon City,Metro Manila
+"Cabalantian, Bacolor",6.43,4.0,3.0,151.0,182.0,Cabalantian,Bacolor,Pampanga
+Muntinlupa,185.0,,,,,,Muntinlupa,Metro Manila
+"Tungkong Mangga, San Jose del Monte",20.0,3.0,6.0,300.0,250.0,Tungkong Mangga,San Jose del Monte,Bulacan
+"Tagbuane, Alburquerque",5.4,3.0,2.0,250.0,1529.0,Tagbuane,Alburquerque,Bohol
+"Capaya, Angeles",8.2,3.0,3.0,170.0,120.0,Capaya,Angeles,Pampanga
+"Savannah Abilay Norte, Oton",15.84,5.0,3.0,166.0,143.0,Abilay Norte,Oton,Iloilo
+"Pasong Buaya II, Imus",13.0,4.0,3.0,117.0,281.0,Pasong Buaya II,Imus,Cavite
+"Cupang, Muntinlupa",56.0,4.0,4.5,400.0,375.0,Cupang,Muntinlupa,Metro Manila
+"Marang Amparo Caloocan City Amparo, Caloocan",5.34,3.0,2.0,83.0,53.0,Brgy 179,Caloocan,Metro Manila
+"San Gregorio, Laurel",26.5,5.0,5.0,650.0,430.0,San Gregorio,Laurel,Batangas
+"C. Salvador Loyola Heights, Quezon City",49.0,4.0,3.0,350.0,240.0,Loyola Heights,Quezon City,Metro Manila
+"Canlubang, Calamba",34.0,4.0,4.0,302.0,250.0,Canlubang,Calamba,Laguna
+"Bel-Air Residences, Marauoy, Lipa City, Batangas, Philippines Marauoy, Lipa",8.21,3.0,3.0,165.0,139.0,Maraouy,Lipa City,Batangas
+San Fernando,6.6,4.0,3.0,160.0,128.0,,San Fernando,Pampanga
+"Canlubang, Calamba",5.0,3.0,2.0,60.0,50.6,Canlubang,Calamba,Laguna
+"Santol, Tanza",2.92,3.0,1.0,50.0,63.0,Santol,Tanza,Cavite
+"Burot, Tarlac",1.75,3.0,1.0,42.0,48.0,Burot,Tarlac City,Tarlac
+"Telabastagan, San Fernando",45.0,6.0,7.0,537.0,900.0,Telabastagan,San Fernando,Pampanga
+"San Roque, Antipolo",13.25,4.0,3.0,93.0,112.0,San Roque,Antipolo,Rizal
+"Lapidario Rd, 4109 Trece Martires City, Philippines Lapidario, Trece Martires",3.11,2.0,2.0,57.0,50.0,Lapidario,Trece Martires City,Cavite
+"Talisay, Estefania, Bacolod City, Negros Occidental Matab-Ang, Talisay",11.13,4.0,3.0,192.0,180.0,Estefania,Bacolod,Negros Occidental
+"Cabilang Baybay, Carmona",105.0,5.0,5.0,565.0,915.0,Cabilang Baybay,Carmona,Cavite
+"Cenacle Rd, 1128 Quezon City, Philippines Culiat, Quezon City",19.5,5.0,4.0,312.0,98.0,Culiat,Quezon City,Metro Manila
+"Rosepointe Tagapo, Santa Rosa",5.45,3.0,1.0,102.0,80.0,Tagapo,City of Santa Rosa,Laguna
+"Cupang, Muntinlupa",56.0,4.0,4.0,400.0,375.0,Cupang,Muntinlupa City,Metro Manila
+"Inchican, Silang",55.0,5.0,,530.0,410.0,Inchican,Silang,Cavite
+"Mabiga, Mabalacat",2.71,3.0,3.0,99.0,66.0,Mabiga,Mabalacat City,Pampanga
+"Pulang Lupa Uno, Las Pinas",5.98,3.0,2.0,95.0,58.0,Pulang Lupa Uno,Las Piñas,Metro Manila
+"Cubcub, Capas",5.89,3.0,2.0,98.0,198.0,Cubcub,Capas,Tarlac
+"Cubcub, Capas",5.89,3.0,2.0,98.0,198.0,Cubcub,Capas,Tarlac
+"Ayala Alabang, Muntinlupa",150.0,4.0,4.0,500.0,550.0,New Alabang Village,Muntinlupa,Metro Manila
+"New Manila, Quezon City",188.96,3.0,3.0,350.0,969.0,Mariana,Quezon City,Metro Manila
+"Ayala Alabang, Muntinlupa",220.0,5.0,5.0,749.0,883.0,New Alabang Village,Muntinlupa,Metro Manila
+"Panungyanan, General Trias, Calabarzon, Philippines Panungyanan, General Trias",4.14,3.0,2.0,77.25,120.0,Panungyanan,General Trias,Cavite
+"Siling Matanda, Pandi",1.23,2.0,1.0,46.6,40.0,Siling Matanda,Pandi,Bulacan
+"Mactan, Lapu-Lapu",15.0,4.0,,300.0,363.0,Mactan,Lapu-Lapu,Cebu
+"Along Calle Rizal, Brgy Sta Barbara Baliuag City Bulacan Santa Barbara, Baliuag",9.8,5.0,3.0,209.0,204.0,Sta Barbara,Baliuag City,Bulacan
+"San Francisco, Binan",5.9,2.0,2.0,70.85,84.0,San Francisco (Halang),Biñan,Laguna
+"New Manila, Quezon City",130.0,5.0,5.0,550.0,300.0,Mariana,Quezon City,Metro Manila
+"Lumina Tanza, Bagtas, Tanza, Cavite, Philippines Bagtas, Tanza",2.76,3.0,1.0,53.0,63.0,Bagtas,Tanza,Cavite
+"Santo Toribio, Lipa",1.28,3.0,1.0,45.0,36.0,Santo Toribio,Lipa City,Batangas
+"Gulod, Binangonan",3.0,3.0,3.0,132.0,66.0,Gulod,Binangonan,Rizal
+"San Isidro, Antipolo",13.5,4.0,3.0,187.0,170.0,San Isidro,Antipolo,Rizal
+"Ayala Alabang, Muntinlupa",163.0,4.0,4.0,304.0,741.0,New Alabang Village,Muntinlupa,Metro Manila
+"Nangka, Consolacion, Central Visayas, Philippines Nangka, Consolacion",4.64,2.0,2.0,78.0,50.0,Nangka,Consolacion,Cebu
+"Duquit, Mabalacat",11.8,3.0,3.0,190.0,137.0,Duquit,Mabalacat City,Pampanga
+"Sindalan, San Fernando",7.35,4.0,43.0,135.0,164.0,Sindalan,San Fernando,Pampanga
+"Duquit, Mabalacat",12.5,4.0,4.0,203.0,120.0,Duquit,Mabalacat City,Pampanga
+"Subabasbas, Lapu-Lapu",15.0,4.0,2.0,126.0,147.0,Subabasbas,Lapu-Lapu,Cebu
+"Santol, Tanza",2.99,2.0,1.0,50.0,50.0,Santol,Tanza,Cavite
+"Cadulawan, Talisay",48.0,5.0,7.0,769.0,407.0,Cadulawan,Talisay,Cebu
+"Sapang Biabas, Mabalacat",2.16,2.0,1.0,50.0,65.0,Sapang Biabas,Mabalacat City,Pampanga
+"Ayala Alabang, Muntinlupa",540.0,6.0,6.0,987.0,1442.0,New Alabang Village,Muntinlupa,Metro Manila
+"Junob, Dumaguete",65.0,8.0,5.0,1000.0,3289.0,Junob,Dumaguete City,Negros Oriental
+"Ayala Alabang, Muntinlupa",470.0,7.0,7.0,1500.0,900.0,New Alabang Village,Muntinlupa,Metro Manila
+"Ayala Alabang, Muntinlupa",110.0,4.0,5.0,400.0,300.0,New Alabang Village,Muntinlupa,Metro Manila
+"Ayala Alabang, Muntinlupa",188.0,5.0,5.0,800.0,688.0,New Alabang Village,Muntinlupa,Metro Manila
+"Rosal Street Corner Betty Go New Manila, Quezon City",60.0,5.0,5.0,384.0,122.0,Mariana,Quezon City,Metro Manila
+"Anabu I-D, Imus",11.3,4.0,3.0,203.0,150.0,Katarungan Village,Imus,Cavite
+"Salitran III, Dasmarinas",9.27,4.0,3.0,121.0,120.0,Salitran III,Dasmariñas,Cavite
+"Communal, Davao",7.6,4.0,4.0,100.0,100.0,Buhangin,Davao City,Davao del Sur
+"Pasadena, San Juan",35.12,5.0,5.0,264.0,92.58,Pasadeña,San Juan City,Metro Manila
+"Pasadena, San Juan",35.71,4.0,4.0,257.0,82.03,Pasadeña,San Juan City,Metro Manila
+"Alabang, Muntinlupa",16.88,5.0,4.0,195.0,240.0,Alabang,Muntinlupa City,Metro Manila
+"Don Bosco, Paranaque",26.0,4.0,4.0,150.0,87.0,Don Bosco,Parañaque,Metro Manila
+"Caysio Road, Santa Maria, Bulacan Caysio, Santa Maria",5.4,3.0,2.0,75.26,80.0,Caysio,Santa Maria,Bulacan
+"Pasadena, San Juan",24.59,3.0,2.0,183.0,54.67,Pasadeña,San Juan City,Metro Manila
+"186 Averilla St., San Juan City Little Baguio, San Juan",42.0,4.0,5.0,280.0,100.0,Little Baguio,San Juan City,Metro Manila
+"Brgy. Sta. Monica Novaliches, Quezon City",10.28,4.0,4.0,220.0,92.0,Novaliches,Quezon City,Metro Manila
+"Santo Rosario, Magalang",3.19,3.0,2.0,54.0,90.0,Santo Rosario,Magalang,Pampanga
+"Nuvali Blvd, 4026 Santa Rosa, Philippines Canlubang, Calamba",10.76,3.0,2.0,85.0,138.0,Canlubang,Calamba City,Laguna
+"Dau, Mabalacat",8.3,3.0,3.0,144.0,100.0,Barangay Dau,Mabalacat City,Pampanga
+"East Fairview near Commonwealth Quezon City Fairview, Quezon City",6.2,3.0,3.0,100.0,30.0,Novaliches,Quezon City,Metro Manila
+"Inchican, Silang",35.0,4.0,5.0,368.0,277.0,Inchican,Silang,Cavite
+"Batasan Hills, Quezon City",14.0,3.0,3.0,170.0,121.0,Batasan Hills,Quezon City,Metro Manila
+"San Luis, Antipolo",16.0,2.0,2.0,100.0,200.0,San Luis,Antipolo,Rizal
+"Lot 2-A Benefits corner Dividend Street Project 8, Quezon City",12.8,3.0,3.0,165.0,52.0,Project 8,Quezon City,Metro Manila
+"Bagbag, Quezon City",5.12,3.0,2.0,68.0,50.0,Bagbag,Quezon City,Metro Manila
+"Matungao, Bulacan",2.18,,,26.5,107.0,Matungao,Bulakan,Bulacan
+"Poblacion, Pulilan",15.0,3.0,2.0,250.0,484.0,Poblacion,Pulilan,Bulacan
+"Ayala Alabang, Muntinlupa",420.0,5.0,6.0,1172.0,762.0,New Alabang Village,Muntinlupa,Metro Manila
+"Lourdes, Quezon City",33.0,4.0,5.0,309.0,93.0,Lourdes,Quezon City,Metro Manila
+"Poblacion, Makati",78.0,3.0,3.0,250.0,150.0,Poblacion,Makati City,Metro Manila
+Las Pinas,19.5,5.0,4.0,386.0,251.0,,Las Piñas,Metro Manila
+"Culiat, Quezon City",24.43,4.0,4.0,350.0,110.0,Culiat,Quezon City,Metro Manila
+"Poblacion V, General Luna",250.0,4.0,3.0,200.0,3000.0,Poblacion V (Purok V),General Luna,Surigao del Norte
+"Congressional Avenue, Quezon City",11.3,3.0,3.0,120.0,60.0,,Quezon City,Metro Manila
+"Guadalupe, Cebu",15.0,4.0,3.0,150.0,120.0,Guadalupe,Cebu City,Cebu
+"McKinley Hill, Taguig",115.0,4.0,4.0,324.0,190.0,Mckinley Hill,Taguig,Metro Manila
+"Ayala Alabang, Muntinlupa",250.0,5.0,5.0,700.0,747.0,New Alabang Village,Muntinlupa,Metro Manila
+"Barangay Sindalan, San Fernando, Pampanga Sindalan, San Fernando",7.65,4.0,3.0,135.0,164.0,Sindalan,San Fernando,Pampanga
+"Ayala Alabang, Muntinlupa",188.0,4.0,4.0,800.0,688.0,New Alabang Village,Muntinlupa,Metro Manila
+"Batasan Hills, Quezon City",1200.0,5.0,7.0,1024.0,8000.0,Batasan Hills,Quezon City,Metro Manila
+Pasig,24.0,5.0,3.0,450.0,250.0,,Pasig,Metro Manila
+"Sanja Mayor, Tanza",2.88,3.0,2.0,60.0,52.0,Sanja Mayor,Tanza,Cavite
+"Del Carmen, San Fernando",1.87,2.0,1.0,47.0,40.0,Del Carmen,San Fernando,Pampanga
+"Ayala Alabang, Muntinlupa",180.0,3.0,3.0,650.0,650.0,New Alabang Village,Muntinlupa,Metro Manila
+"Almanza Dos, Las Pinas",7.0,4.0,2.0,150.0,163.0,Almanza Dos,Las Piñas,Metro Manila
+"F. Rodelas Rd. Barangay Bolbok Lipa City Bolbok, Lipa",2.91,3.0,2.0,60.5,50.0,Bolbok,Lipa City,Batangas
+"Langkiwa, Binan",7.3,3.0,3.0,250.0,202.0,Langkiwa,Biñan,Laguna
+"Sun Valley, Paranaque",12.0,5.0,5.0,210.0,75.0,Sun Valley,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",180.0,4.0,5.0,600.0,720.0,New Alabang Village,Muntinlupa,Metro Manila
+"McKinley Hill Dr, 1634 Taguig City, Philippines McKinley Hill, Taguig",198.0,5.0,6.5,642.0,288.0,McKinley Hill,Taguig,Metro Manila
+"San Luis, Antipolo",19.5,5.0,5.0,,542.0,San Luis,Antipolo,Rizal
+"Aldea Grove Estate Angeles Pampanga Mining, Angeles",10.81,3.0,2.0,95.0,129.0,Barangay Mining,Angeles,Pampanga
+"Bagumbong, Caloocan City North, National Capital Region, Philippines Bagumbong, Caloocan",3.7,3.0,1.0,57.0,56.25,Bagumbong,Caloocan,Metro Manila
+"Fairview, Quezon City",18.0,5.0,3.0,300.0,400.0,Fairview,Quezon City,Metro Manila
+"McKinley Hill, Taguig",135.0,4.0,5.0,450.0,189.0,Mckinley Hill,Taguig,Metro Manila
+"Talon Dos, Las Pinas",8.5,4.0,2.0,160.0,102.0,Talon Dos,Las Piñas,Metro Manila
+"Filinvest 2 Batasan Commonwealth Quezon City Townhouse Katipunan, Teachers Village, UP Diliman, Ateneo, Miriam, City Hall, Philippine Kidney Hospital, Heart Center, Lung Center, MRT EDSA, SM North EDSA, Trinoma Congress, Batasang Pambansa House and Lot, Commonwealth, Quezon City",22.5,4.0,4.0,246.0,194.0,Teachers Village,Quezon City,Metro Manila
+"Tandang Sora, Quezon City",9.75,4.0,4.0,148.73,58.53,Tandang Sora,Quezon City,Metro Manila
+"B.F. Homes, Paranaque",24.95,5.0,4.0,250.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Ugong, Pasig",162.0,4.0,4.0,400.0,479.0,Ugong,Pasig,Metro Manila
+"Ayala Alabang, Muntinlupa",32.43,7.0,7.0,1500.0,900.0,New Alabang Village,Muntinlupa,Metro Manila
+"Novaliches, Quezon City",5.71,3.0,4.0,117.0,43.33,Novaliches Proper,Quezon City,Metro Manila
+"Talamban, Cebu",35.0,4.0,4.0,300.0,336.0,Talamban,Cebu City,Cebu
+"B.F. Homes, Paranaque",34.0,4.0,5.0,380.0,286.0,B. F. Homes,Parañaque,Metro Manila
+"Project 8, Quezon City",9.7,3.0,3.0,200.0,80.0,Project 8,Quezon City,Metro Manila
+"Playa Calatagan House and lot for sale Santa Ana, Calatagan",29.0,5.0,4.0,200.0,591.0,,Calatagan,Batangas
+"Santo Domingo, Santa Rosa",5.45,4.0,4.0,250.0,225.0,Santo Domingo,City of Santa Rosa,Laguna
+"Amsic, Angeles",11.5,4.0,3.0,190.0,120.0,Amsic,Angeles,Pampanga
+"Don Bosco, Paranaque",18.5,4.0,4.0,350.0,210.0,Don Bosco,Parañaque,Metro Manila
+"San Ignacio, San Pablo",3.2,3.0,2.0,54.0,88.0,San Ignacio,San Pablo City,Laguna
+"Sapalibutad, Angeles",7.22,4.0,3.0,189.0,182.0,Sapalibutad,Angeles,Pampanga
+"Birmingham Metropolis 3 Countryside Pasig City Santa Lucia, Pasig",6.45,3.0,2.0,70.0,60.0,Santa Lucia,Pasig,Metro Manila
+"New Manila, Quezon City",87.0,5.0,5.0,620.0,112.0,Mariana,Quezon City,Metro Manila
+"Rosanna Heights, Barangay San Manuel, San Jose Del Monte, Bulacan Tungkong Mangga, San Jose del Monte",5.76,3.0,2.0,70.45,72.0,San Manuel,San Jose del Monte,Bulacan
+"San Miguel, Pasig",8.5,4.0,,120.0,91.0,San Miguel,Pasig,Metro Manila
+"Tandang Sora Quezon City House and Lot nr Congressional Mindanao Avenue Visayas Avenue Commonwealth Teachers Village, UP Diliman, Ateneo, Project 8, Philippine Kidney Hospital, Heart Lung Center SM North EDSA, Trinoma, Quirino Highway, Novaliches, Sauyo, Pasong Tamo, Quezon City",7.3,3.0,3.0,91.6,47.9,Project 8,Quezon City,Metro Manila
+"Amsic, Angeles",18.5,4.0,3.0,217.0,246.0,Amsic,Angeles,Pampanga
+"San Lorenzo, Makati",200.0,5.0,5.0,,470.0,San Lorenzo,Makati City,Metro Manila
+"Buck Estate, Alfonso",25.0,5.0,4.0,,226.0,Buck Estate,Alfonso,Cavite
+"Dasmarinas, Makati",750.0,5.0,5.0,600.0,1012.0,Dasmariñas,Makati City,Metro Manila
+"Ma-A, Davao",13.6,4.0,3.0,148.0,150.0,Ma-a,Davao City,Davao del Sur
+"Philippines, Manila, Barangay 521, San Diego Sampaloc, Manila",11.9,3.0,4.0,180.0,52.5,Sampaloc,Manila,Metro Manila
+"Buhangin, Davao",14.0,5.0,4.0,300.0,162.0,Buhangin,Davao City,Davao del Sur
+"Pinget, Baguio",6.8,1.0,1.0,35.0,168.0,Pinget,Baguio,Benguet
+"Treveia, NUVALI, Barangay Canlubang, Calamba City, Laguna Canlubang, Calamba",30.0,4.0,4.0,302.0,250.0,Canlubang,Calamba,Laguna
+Mandaluyong,33.0,4.0,4.0,275.0,201.0,,Mandaluyong City,Metro Manila
+"Puting Kahoy, Silang",35.2,5.0,5.0,600.0,576.0,Puting Kahoy,Silang,Cavite
+"Camarin, Caloocan",5.6,3.0,3.0,97.0,50.0,Camarin,Caloocan,Metro Manila
+"Amsic, Angeles",15.5,4.0,3.0,220.0,165.0,Amsic,Angeles,Pampanga
+"B.F. Homes, Paranaque",90.0,5.0,6.0,860.0,586.0,B. F. Homes,Parañaque,Metro Manila
+Angeles,9.5,4.0,3.0,190.0,120.0,,Angeles,Pampanga
+"Canlubang, Calamba",30.0,4.0,4.0,302.0,250.0,Canlubang,Calamba,Laguna
+"Canlubang, Calamba",45.0,6.0,5.0,442.0,448.0,Canlubang,Calamba,Laguna
+"Lagtang, Talisay",28.0,4.0,4.0,330.0,200.0,Lagtang,Talisay,Cebu
+"Almanza Dos, Las Pinas",29.0,3.0,5.0,220.0,256.0,Almanza Dos,Las Piñas,Metro Manila
+"Fort Bonifacio, Taguig",132.0,5.0,5.0,,188.0,Fort Bonifacio,Taguig,Metro Manila
+"Puting Kahoy, Silang",68.0,4.0,5.0,506.0,389.0,Puting Kahoy,Silang,Cavite
+"Western Bicutan, Taguig",11.0,3.0,3.0,100.0,30.0,Western Bicutan,Taguig,Metro Manila
+"San Ignacio, San Pablo",1.8,2.0,1.0,40.0,44.0,San Ignacio,San Pablo City,Laguna
+"Fort Bonifacio, Taguig",132.0,5.0,5.0,,188.0,Fort Bonifacio,Taguig,Metro Manila
+"Almanza Dos, Las Pinas",29.0,3.0,5.0,220.0,256.0,Almanza Dos,Las Piñas,Metro Manila
+"Mining, Angeles, Pampanga, Philippines Mining, Angeles",12.0,4.0,3.0,186.0,120.0,Mining,Angeles,Pampanga
+"Talon Singko, Las Pinas",7.0,3.0,3.0,112.0,89.0,Talon Singko,Las Piñas,Metro Manila
+"Fairview, Quezon City",8.35,3.0,3.0,102.0,68.0,Fairview,Quezon City,Metro Manila
+"Almanza Dos, Las Pinas",25.0,4.0,5.0,250.0,235.0,Almanza Dos,Las Piñas,Metro Manila
+"Cabilang Baybay, Carmona",62.0,5.0,5.0,447.0,816.0,Cabilang Baybay,Carmona,Cavite
+"Inchican, Silang",35.4,4.0,4.0,391.0,336.0,Inchican,Silang,Cavite
+"San Isidro, Cainta",16.8,4.0,4.0,221.23,201.9,San Isidro,Cainta,Rizal
+"Sacred Heart, Quezon City",66.06,3.0,2.0,,367.0,Diliman,Quezon City,Metro Manila
+"Cupang, Muntinlupa",78.0,4.0,5.0,382.06,603.0,Cupang,Muntinlupa City,Metro Manila
+"Santo Nino, Cainta",14.58,4.0,4.0,264.0,100.0,Santo Niño,Cainta,Rizal
+"Fairview, Quezon City",9.93,6.0,4.0,160.0,68.0,Fairview,Quezon City,Metro Manila
+"Tambo, Paranaque",96.0,,,700.0,800.0,Tambo,Parañaque,Metro Manila
+"Daang Hari Road, Bacoor",7.8,3.0,3.0,83.0,103.0,,Bacoor,Cavite
+"Sun Valley Estates Brgy San Juan Antipolo City Bagong Nayon, Antipolo",16.65,4.0,5.0,172.0,264.0,San Juan,Antipolo,Rizal
+"Carnation, 1118 Quezon City, Philippines Fairview, Quezon City",9.85,6.0,5.0,170.42,74.5,Fairview,Quezon City,Metro Manila
+"Saint Ignatius, Quezon City",61.44,3.0,3.0,250.0,384.0,Saint Ignatius,Quezon City,Metro Manila
+"Sindalan, San Fernando, Central Luzon, Philippines Sindalan, San Fernando",7.35,4.0,3.0,135.0,164.0,Sindalan,San Fernando,Pampanga
+"Canlubang, Calamba",30.0,4.0,4.0,310.0,243.0,Canlubang,Calamba,Laguna
+"Ayala Alabang, Muntinlupa",222.25,4.0,4.0,700.0,910.0,New Alabang Village,Muntinlupa,Metro Manila
+"Ayala Alabang, Muntinlupa",205.0,6.0,4.0,600.0,870.0,New Alabang Village,Muntinlupa,Metro Manila
+"Tandang Sora, Quezon City",9.85,4.0,4.0,150.0,58.7,Tandang Sora,Quezon City,Metro Manila
+"Bel-Air, Makati",400.0,5.0,3.0,654.0,698.0,Bel-Air,Makati City,Metro Manila
+"Ugong, Valenzuela",5.7,3.0,3.0,82.0,65.0,Ugong,Valenzuela,Metro Manila
+"Cacarong Matanda, Pandi",1.23,2.0,1.0,46.6,36.0,Cacarong Matanda,Pandi,Bulacan
+"Santa Monica, Quezon City",10.67,3.0,3.0,143.0,66.0,Santa Monica,Quezon City,Metro Manila
+"Tandang Sora, Quezon City",9.85,4.0,4.0,150.0,58.7,Tandang Sora,Quezon City,Metro Manila
+"Tanauan, Tanza",1.86,2.0,1.0,40.0,60.5,Tanauan,Tanza,Cavite
+"Puting Kahoy, Silang",95.0,6.0,5.0,668.0,478.0,Puting Kahoy,Silang,Cavite
+"Plaridel, Lipa",5.9,4.0,3.0,88.35,240.0,Plaridel,Lipa City,Batangas
+Paranaque,16.0,4.0,4.0,350.0,120.0,,Parañaque,Metro Manila
+"Santa Lucia, San Juan",40.0,3.0,3.0,272.0,,Santa Lucia,San Juan City,Metro Manila
+Pasig,9.0,4.0,2.0,300.0,120.0,,Pasig,Metro Manila
+"Amsic, Angeles",30.0,6.0,5.0,350.0,800.0,Amsic,Angeles,Pampanga
+"Diliman, Quezon City",12.9,3.0,3.0,130.0,48.5,Diliman,Quezon City,Metro Manila
+"Sucat, Muntinlupa",28.0,3.0,2.0,219.0,186.0,Sucat,Muntinlupa City,Metro Manila
+"Cacarong Matanda, Pandi",1.23,2.0,1.0,46.6,36.0,Cacarong Matanda,Pandi,Bulacan
+"Santa Monica, Quezon City",10.67,3.0,3.0,143.0,66.0,Santa Monica,Quezon City,Metro Manila
+"Bel-Air, Makati",400.0,5.0,3.0,654.0,698.0,Bel-Air,Makati City,Metro Manila
+"Brgy Tanauan Tanza Cavite Tanauan, Tanza",4.34,3.0,2.0,112.5,72.0,Tanauan,Tanza,Cavite
+"Ugong, Valenzuela",5.7,3.0,3.0,82.0,65.0,Ugong,Valenzuela,Metro Manila
+"Capitol Hills, Quezon City",36.5,4.0,3.0,212.0,126.0,Capitol Hills,Quezon City,Metro Manila
+"White Plains, Quezon City",165.0,6.0,6.0,800.0,433.0,White Plains,Quezon City,Metro Manila
+"Francisco, Tagaytay",21.25,5.0,,180.0,352.0,Francisco (San Francisco),Tagaytay City,Cavite
+"Puting Kahoy, Silang",68.0,4.0,4.0,508.0,380.0,Puting Kahoy,Silang,Cavite
+"Balingasa, Quezon City",40.7,4.0,4.0,329.0,124.0,Balingasa,Quezon City,Metro Manila
+"Daang Hari Road Almanza Dos, Las Pinas",37.86,3.0,4.0,278.0,252.0,Almanza Dos,Las Piñas,Metro Manila
+"Magallanes, Makati",125.0,4.0,4.0,400.0,401.0,Magallanes,Makati City,Metro Manila
+"molave highland subdivision Lamac, Consolacion",17.5,3.0,2.0,250.0,202.0,Lamac,Consolacion,Cebu
+"Mambugan, Antipolo",70.0,5.0,8.0,600.0,800.0,Mambugan,Antipolo,Rizal
+"Tabalong, Dauis",13.5,3.0,3.0,200.0,1000.0,Tabalong,Dauis,Bohol
+"Poblacion, Muntinlupa",20.0,3.0,2.0,300.0,300.0,Poblacion,Muntinlupa,Metro Manila
+"Del Monte, Island of garden Samal, Samal",2.5,2.0,1.0,42.0,100.0,Del Monte,Samal,Davao del Norte
+"Dapdap, Mactan Island, Cebu, Lapu-Lapu City, Philippines Mactan, Lapu-Lapu",35.0,5.0,,320.0,496.0,Dapdap,Lapu-Lapu,Cebu
+"White Plains, Quezon City",165.0,6.0,5.0,850.0,433.0,White Plains,Quezon City,Metro Manila
+"Culiat, Quezon City",15.5,3.0,4.0,185.0,78.0,Culiat,Quezon City,Metro Manila
+Talisay,56.0,6.0,5.0,687.0,421.0,,Talisay,Cebu
+"Puting Kahoy, Silang",60.5,4.0,4.0,600.0,450.0,Puting Kahoy,Silang,Cavite
+"El Monteverde Subd, 6001 Consolacion, Philippines Lamac, Consolacion",29.0,4.0,4.0,304.0,356.0,Lamac,Consolacion,Cebu
+"Ayala Alabang, Muntinlupa",170.0,6.0,5.0,500.0,695.0,New Alabang Village,Muntinlupa,Metro Manila
+"Kaligayahan, Quezon City",10.28,5.0,3.0,197.0,77.0,Kaligayahan,Quezon City,Metro Manila
+Angeles,15.7,4.0,3.0,165.0,220.0,,Angeles,Pampanga
+"Telabastagan, San Fernando",10.0,4.0,3.0,128.0,150.0,Telabastagan,San Fernando,Pampanga
+"Ugong, Pasig",100.0,5.0,5.0,460.0,190.0,Ugong,Pasig,Metro Manila
+"Clark, Mabalacat",19.0,3.0,3.0,245.0,433.0,,Mabalacat City,Pampanga
+"Cuayan, Angeles",12.8,3.0,3.0,172.0,165.0,Cuayan,Angeles,Pampanga
+"Ayala Southvale Primera Bacoor, Cavite Molino I, Bacoor",70.0,4.0,4.0,480.0,518.0,Molino I,Bacoor,Cavite
+"Cupang, Muntinlupa",66.0,5.0,5.0,500.0,450.0,Cupang,Muntinlupa City,Metro Manila
+"Makiling, Calamba",3.35,,,149.0,132.0,Makiling,Calamba,Laguna
+"B.F. Homes, Paranaque",25.0,5.0,4.0,300.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Tandang Sora, Quezon City",10.9,3.0,3.0,140.0,80.0,Tandang Sora,Quezon City,Metro Manila
+"Ugong, Pasig",36.5,4.0,3.0,240.0,170.0,Ugong,Pasig,Metro Manila
+"Biday, San Fernando",5.36,3.0,2.0,80.0,81.0,Biday,San Fernando City,La Union
+"Inchican, Silang",89.0,4.0,4.0,600.0,396.0,Inchican,Silang,Cavite
+"San Gregorio, Laurel",5.0,2.0,3.0,120.0,82.0,San Gregorio,Laurel,Batangas
+"Matandang Balara, Quezon City",120.0,8.0,7.0,720.0,402.0,Matandang Balara,Quezon City,Metro Manila
+"Culiat, Quezon City",9.5,3.0,3.0,136.5,83.73,Culiat,Quezon City,Metro Manila
+"Canlubang, Calamba",35.0,6.0,7.0,400.0,367.0,Canlubang,Calamba,Laguna
+"Pilar, Las Pinas",9.5,2.0,2.0,145.0,192.0,Pilar,Las Piñas,Metro Manila
+"Loyola Heights, Quezon City",120.0,13.0,13.0,1250.0,1000.0,Loyola Heights,Quezon City,Metro Manila
+"Santa Maria, Mabalacat",19.0,3.0,3.0,245.0,433.0,Santa Maria,Mabalacat City,Pampanga
+"Puting Kahoy, Silang",60.0,4.0,4.0,446.0,352.0,Puting Kahoy,Silang,Cavite
+"Teachers Village East, Quezon City",33.0,3.0,,,412.0,Diliman,Quezon City,Metro Manila
+"katarungan Poblacion, Muntinlupa",8.0,4.0,4.0,210.0,78.0,Katarungan,Muntinlupa,Metro Manila
+"Talon Dos, Las Pinas",25.0,6.0,6.0,380.0,420.0,Talon Dos,Las Piñas,Metro Manila
+"Maligaya, Dinalupihan",14.0,4.0,3.0,200.0,10000.0,Maligaya,Dinalupihan,Bataan
+"Maligaya, Dinalupihan",14.0,4.0,3.0,200.0,10000.0,Maligaya,Dinalupihan,Bataan
+"Don Bosco, Paranaque",14.0,4.0,4.0,225.0,118.0,Don Bosco,Parañaque,Metro Manila
+"katarungan Poblacion, Muntinlupa",8.0,4.0,4.0,210.0,78.0,Katarungan Poblacion,Muntinlupa,Metro Manila
+"Sabang, Morong",65.0,4.0,4.0,400.0,575.0,Sabang,Morong,Bataan
+"Pasong Tamo, Quezon City",7.3,3.0,3.0,91.6,47.9,Pasong Tamo,Quezon City,Metro Manila
+"Mambog II, Bacoor",25.0,5.0,5.0,232.14,175.0,Mambog II,Bacoor,Cavite
+"San Juan, Taytay",10.4,4.0,3.0,190.0,110.0,San Juan,Taytay,Rizal
+"Fairview, Quezon City",4.75,3.0,2.0,91.19,60.0,Fairview,Quezon City,Metro Manila
+"Francisco, Tagaytay",14.5,4.0,2.0,120.0,240.0,Francisco (San Francisco),Tagaytay City,Cavite
+"Sta. Cruz, Arevalo, Iloilo City Mohon, Iloilo",7.9,4.0,4.0,175.0,240.0,Mohon,Iloilo City,Iloilo
+"Bonuan Boquig, Dagupan",5.73,4.0,2.0,100.0,190.0,Bonuan Boquig,Dagupan City,Pangasinan
+"Lalakay, Los Banos",28.5,5.0,4.0,300.0,321.0,Lalakay,Los Baños,Laguna
+"Camp 7, Baguio",25.0,5.0,3.0,250.0,183.0,Camp 7,Baguio,Benguet
+"San Isidro, Paranaque",4.66,2.0,2.0,36.0,38.0,San Isidro,Parañaque,Metro Manila
+"Marcelo Green Village, Paranaque, National Capital Region, Philippines Marcelo Green Village, Paranaque",16.5,4.0,4.0,250.0,370.0,Marcelo Green,Parañaque,Metro Manila
+"San Miguel, Pasig",7.0,3.0,2.0,100.3,72.0,San Miguel,Pasig,Metro Manila
+"Merville, Paranaque",38.0,3.0,3.0,330.0,420.0,Merville,Parañaque,Metro Manila
+"San Antonio, Binan",2.65,2.0,1.0,43.0,45.0,San Antonio,Biñan,Laguna
+"Calubcub II, San Juan",85.0,5.0,6.0,1080.0,1700.0,Calubcub II,San Juan,Batangas
+"Ayala Alabang, Muntinlupa",420.0,7.0,7.0,1233.0,816.0,New Alabang Village,Muntinlupa,Metro Manila
+"Loakan Proper, Baguio",7.9,4.0,2.0,90.0,100.0,Loakan Proper,Baguio,Benguet
+"Tugbok, Davao",20.0,3.0,2.0,200.0,281.0,Tugbok,Davao City,Davao del Sur
+Angeles,24.0,4.0,4.0,290.0,246.0,,Angeles,Pampanga
+"Liburon, Carcar",2.35,3.0,1.0,47.0,40.0,Liburon,Carcar,Cebu
+"Biday, San Fernando",8.69,4.0,3.0,143.0,94.0,Biday,San Fernando City,La Union
+"San Miguel, Pasig",26.95,5.0,,500.0,362.0,San Miguel,Pasig,Metro Manila
+"Greenhills, San Juan, National Capital Region, Philippines Greenhills, San Juan",35.71,7.0,7.0,1357.0,1000.0,Greenhills,San Juan City,Metro Manila
+"Biday, San Fernando",10.54,3.0,2.0,134.0,188.0,Biday,San Fernando City,La Union
+"Don Bosco, Paranaque",18.0,6.0,6.0,235.5,210.0,Don Bosco,Parañaque,Metro Manila
+"Plainview, Mandaluyong",22.8,4.0,4.0,228.0,55.0,Plainview,Mandaluyong City,Metro Manila
+"Bakakeng North, Baguio",20.0,4.0,3.0,280.0,600.0,Bakakeng North,Baguio,Benguet
+"Magallanes, Makati",115.0,4.0,3.0,275.0,350.0,Magallanes,Makati City,Metro Manila
+"Camp 7, Baguio",17.97,5.0,3.0,150.0,335.0,Camp 7,Baguio,Benguet
+"B. F. Homes, Paranaque, National Capital Region, Philippines B.F. Homes, Paranaque",45.0,5.0,5.0,459.32,308.0,B. F. Homes,Parañaque,Metro Manila
+"Mendez Crossing East, Tagaytay",2.04,3.0,1.0,54.0,50.0,Mendez Crossing East,Tagaytay City,Cavite
+"Mayamot, Antipolo",12.5,4.0,3.0,211.0,90.0,Mayamot,Antipolo,Rizal
+"Guada Plains Guadalupe, Cebu",25.0,5.0,4.0,211.0,182.0,Guada Plains,Cebu City,Cebu
+"Panicsican, San Juan",9.75,4.0,2.0,148.0,140.0,Panicsican,San Juan,La Union
+"San Antonio, San Pedro",7.5,5.0,3.0,188.0,197.0,San Antonio,San Pedro,Laguna
+"San Francisco, Binan",13.07,4.0,3.0,147.0,304.0,San Francisco (Halang),Biñan,Laguna
+"Cirilo Street, Isidora Hills Subdivision Holy Spirit, Quezon City",26.0,4.0,3.0,110.0,476.0,Holy Spirit,Quezon City,Metro Manila
+"Matandang Balara, Quezon City",168.0,5.0,5.0,820.0,476.0,Matandang Balara,Quezon City,Metro Manila
+"Almanza Dos, Las Pinas",55.0,3.0,,334.0,564.0,Almanza Dos,Las Piñas,Metro Manila
+Quezon City,35.53,4.0,3.0,198.0,111.0,,Quezon City,Metro Manila
+"Diliman, Quezon City",110.0,4.0,5.0,450.0,800.0,Diliman,Quezon City,Metro Manila
+"San Roque, Pasay",120.0,11.0,7.0,,730.16,San Roque,Pasay City,Metro Manila
+"Bagumbayan, Tanauan",1.84,2.0,1.0,44.5,58.5,Bagumbayan,Tanauan City,Batangas
+"Molino III, Bacoor",8.5,4.0,3.0,180.0,200.0,Molino III,Bacoor,Cavite
+"Ayala Alabang, Muntinlupa",310.0,5.0,5.0,1000.0,700.0,New Alabang Village,Muntinlupa,Metro Manila
+"McKinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112.0,3.0,4.0,420.0,198.0,Pinagsama,Taguig,Metro Manila
+"Philippines, Caloocan City North, Barangay 172, Thaddevs Kaligayahan, Quezon City",6.0,3.0,2.0,155.0,100.0,Barangay 172,Caloocan,Metro Manila
+"B.F. Homes, Paranaque",26.5,4.0,4.0,350.0,293.0,B. F. Homes,Parañaque,Metro Manila
+"Saint Ignatius, Quezon City",73.78,3.0,3.0,250.0,434.0,Saint Ignatius,Quezon City,Metro Manila
+"Pinacpinacan, San Rafael",1.2,2.0,1.0,44.0,36.0,Pinacpinacan,San Rafael,Bulacan
+"Visayan Village, Tagum",8.01,5.0,3.0,100.0,,Visayan Village,Tagum,Davao del Norte
+"Fort Bonifacio, Taguig",63.0,4.0,4.0,172.0,400.0,Fort Bonifacio,Taguig,Metro Manila
+"San Sebastian, Hagonoy",4.38,,,215.0,196.0,San Sebastian,Hagonoy,Bulacan
+"Marigondon, Lapu-Lapu",7.5,3.0,3.0,180.0,136.0,Marigondon,Lapu-Lapu,Cebu
+"Ugong Norte, Quezon City",370.0,4.0,4.0,700.0,899.0,Ugong Norte,Quezon City,Metro Manila
+"Kaligayahan, Quezon City",4.2,3.0,2.0,65.0,48.0,Kaligayahan,Quezon City,Metro Manila
+"Tranca, Talisay",60.0,5.0,6.0,700.0,400.0,Tranca,Talisay,Batangas
+"Manila Southwoods Cabilang Baybay, Carmona",105.0,5.0,5.0,565.0,915.0,Cabilang Baybay,Carmona,Cavite
+"San Isidro, Taytay",9.8,4.0,3.0,170.13,82.0,San Isidro,Taytay,Rizal
+"Plainview, Mandaluyong",24.0,3.0,2.0,82.0,200.0,Plainview,Mandaluyong City,Metro Manila
+"Balibago, Angeles",9.5,3.0,2.0,185.0,320.0,Balibago,Angeles,Pampanga
+"Batasan Hills, Quezon City",48.0,5.0,4.0,316.54,353.0,Batasan Hills,Quezon City,Metro Manila
+"San Isidro, Taytay",12.5,4.0,4.0,219.84,95.0,San Isidro,Taytay,Rizal
+"Paliparan I, Dasmarinas",10.28,5.0,3.0,142.0,168.0,Paliparan I,Dasmariñas,Cavite
+"Dau, Mabalacat",27.0,4.0,4.0,350.0,251.0,Barangay Dau,Mabalacat City,Pampanga
+"Molino VII, Bacoor",4.6,3.0,2.0,114.0,90.0,Molino VII,Bacoor,Cavite
+"M Dela Fuente Sampaloc Manila Sampaloc, Manila",13.0,3.0,,130.0,50.0,Sampaloc,Manila,Metro Manila
+"Avida Setting Bacoor Cavite Molino IV, Bacoor",18.0,6.0,6.0,432.0,278.0,Molino IV,Bacoor,Cavite
+"Almanza Uno, Las Pinas",8.57,3.0,2.0,124.0,80.0,Almanza Uno,Las Piñas,Metro Manila
+"Poblacion, Makati",80.0,4.0,3.0,326.0,326.0,Poblacion,Makati City,Metro Manila
+"Dove Street, Banilad, Mandaue City Banilad, Mandaue",50.0,5.0,5.0,300.0,852.0,Banilad,Mandaue,Cebu
+"Philippines, Quezon City, Fairview Fairview, Quezon City",7.5,4.0,4.0,138.0,58.0,Fairview,Quezon City,Metro Manila
+"Almanza Dos, Las Pinas",79.5,5.0,5.0,542.0,333.0,Almanza Dos,Las Piñas,Metro Manila
+"Sun Valley, Paranaque",8.8,3.0,3.0,118.0,66.0,Sun Valley,Parañaque,Metro Manila
+"Calumpang Lejos I, Indang",7.5,5.0,5.0,150.0,220.0,Calumpang Lejos I,Indang,Cavite
+Calatagan,12.0,5.0,3.0,965.0,965.0,,Calatagan,Batangas
+"Marcelo Green Village, Paranaque, National Capital Region, Philippines Marcelo Green Village, Paranaque",26.0,5.0,4.0,271.0,251.0,Marcelo Green,Parañaque,Metro Manila
+"Onse, San Juan",15.3,3.0,3.0,143.0,27.0,Onse,San Juan City,Metro Manila
+"Bigaa, Cabuyao",16.0,4.0,3.0,370.0,198.0,Bigaa,Cabuyao City,Laguna
+"B.F. International Village, Las Pinas",18.5,3.0,3.0,270.0,332.0,B. F. International Village,Las Piñas,Metro Manila
+"Teachers Village East, Quezon City",23.0,3.0,4.0,277.06,68.0,Diliman,Quezon City,Metro Manila
+"Paradahan I, Tanza",1.85,2.0,1.0,39.0,60.0,Paradahan I,Tanza,Cavite
+"Panungyanan, General Trias",4.0,4.0,2.0,81.0,110.0,Panungyanan,General Trias,Cavite
+"Panungyanan, General Trias",4.0,4.0,2.0,81.0,110.0,Panungyanan,General Trias,Cavite
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",90.0,5.0,5.0,700.0,400.0,Cupang,Muntinlupa,Metro Manila
+"Tandang Sora, Quezon City, National Capital Region, Philippines Tandang Sora, Quezon City",8.2,3.0,2.0,112.0,60.0,Pasong Tamo,Quezon City,Metro Manila
+"Merville, Paranaque",24.0,3.0,2.0,250.0,348.0,Merville,Parañaque,Metro Manila
+"Natipuan, Nasugbu",35.0,6.0,6.0,434.0,405.0,Natipuan,Nasugbu,Batangas
+"Bonuan Boquig, Dagupan",4.92,3.0,2.0,80.0,180.0,Bonuan Boquig,Dagupan City,Pangasinan
+"Pinagbuhatan, Pasig",30.0,6.0,5.0,500.0,204.0,Pinagbuhatan,Pasig,Metro Manila
+"Kayumanggi, Lipa",4.06,3.0,2.0,102.0,129.0,Kayumanggi,Lipa City,Batangas
+"Tunasan, Muntinlupa",63.5,7.0,7.0,700.0,460.0,Tunasan,Muntinlupa,Metro Manila
+"Bagong Nayon, Antipolo",18.0,4.0,3.0,204.0,254.0,Bagong Nayon,Antipolo,Rizal
+"Mambugan, Antipolo",25.0,5.0,5.0,300.0,610.0,Mambugan,Antipolo,Rizal
+"Matandang Balara, Quezon City",168.0,5.0,5.0,820.0,480.0,Matandang Balara,Quezon City,Metro Manila
+"Woodridge Park Subd., Ma-a, Davao City Ma-A, Davao",20.0,3.0,3.0,160.0,169.0,Talomo,Davao City,Davao del Sur
+"Cresta Verde Ave, Quezon City, Philippines Santa Monica, Quezon City",5.4,3.0,2.0,70.0,67.5,Santa Monica,Quezon City,Metro Manila
+"Merville, Paranaque",20.0,6.0,4.0,260.0,150.0,Merville,Parañaque,Metro Manila
+"Holy Spirit, Quezon City",10.5,3.0,2.0,180.0,176.0,Holy Spirit,Quezon City,Metro Manila
+"Mabini, Lipa",4.5,3.0,2.0,80.0,80.0,Mabini,Lipa City,Batangas
+"Lawaan II, Talisay",16.0,5.0,4.0,400.0,180.0,Lawaan II,Talisay,Cebu
+"Busay, Cebu",120.0,5.0,9.0,1500.0,1458.0,Busay,Cebu City,Cebu
+"Pilar, Las Pinas",8.6,3.0,3.0,130.0,80.0,Pilar,Las Piñas,Metro Manila
+"Liptong, Bacong",12.0,4.0,3.0,300.0,3267.0,Liptong,Bacong,Negros Oriental
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",43.0,4.0,5.0,400.0,380.0,Cupang,Muntinlupa,Metro Manila
+"Talon Kuatro, Las Pinas",17.5,4.0,4.0,167.0,68.0,Talon Kuatro,Las Piñas,Metro Manila
+"Santa Lucia, Pasig",8.53,3.0,3.0,133.0,90.0,Santa Lucia,Pasig,Metro Manila
+"McKinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112.0,3.0,4.0,420.0,198.0,Pinagsama,Taguig,Metro Manila
+"Buckingham, 1771 Muntinlupa, Philippines Cupang, Muntinlupa",43.0,4.0,5.0,380.0,400.0,Cupang,Muntinlupa,Metro Manila
+"White Plains, Quezon City",153.6,5.0,4.0,,768.0,White Plains,Quezon City,Metro Manila
+"Almanza Uno, Las Pinas",16.5,5.0,5.0,300.0,194.0,Almanza Uno,Las Piñas,Metro Manila
+"Almanza Uno, Las Pinas",73.9,8.0,5.0,548.0,662.0,Almanza Uno,Las Piñas,Metro Manila
+"Ayala Alabang, Muntinlupa",420.0,5.0,6.0,1600.0,868.0,New Alabang Village,Muntinlupa,Metro Manila
+"Woodridge Park Ma-A, Davao",20.0,4.0,3.0,180.0,180.0,Talomo,Davao City,Davao del Sur
+"Western Bicutan, Taguig",112.0,4.0,5.0,410.0,200.0,Western Bicutan,Taguig,Metro Manila
+"Don Bosco, Paranaque",14.0,4.0,3.0,200.0,120.0,Don Bosco,Parañaque,Metro Manila
+"Woodridge Park Ma-A, Davao",20.0,4.0,3.0,180.0,180.0,Talomo,Davao City,Davao del Sur
+"Sikatuna Village, Quezon City",16.5,2.0,3.0,170.0,100.0,Diliman,Quezon City,Metro Manila
+"Teachers Village East, Quezon City",23.0,3.0,4.0,152.0,53.0,Diliman,Quezon City,Metro Manila
+"TALON DOS BF RESORT Talon Dos, Las Pinas",14.3,4.0,3.0,186.0,110.0,Talon Dos,Las Piñas,Metro Manila
+"MacArthur Hwy Longos, Malolos",4.0,2.0,2.0,80.0,88.0,Longos,Malolos City,Bulacan
+"Bitas, Cabanatuan",5.42,3.0,2.0,70.0,120.0,Bitas,Cabanatuan City,Nueva Ecija
+"Lagtang, Talisay",18.0,4.0,3.0,240.0,334.0,Lagtang,Talisay,Cebu
+"Inchican, Silang",55.0,4.0,6.0,400.0,530.0,Inchican,Silang,Cavite
+"Bucao St., Nia Village Tandang Sora , Quezon City Tandang Sora, Quezon City",9.8,3.0,3.0,119.0,64.0,Tandang Sora,Quezon City,Metro Manila
+"Bagacay, Dumaguete City, Central Visayas, Philippines Bagacay, Dumaguete",11.0,4.0,4.0,90.0,526.0,Bagacay,Dumaguete City,Negros Oriental
+"Merville, Paranaque",30.0,3.0,2.0,212.0,377.0,Merville,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",199.0,5.0,5.0,600.0,625.0,New Alabang Village,Muntinlupa,Metro Manila
+"Bonuan Boquig, Dagupan",6.75,4.0,2.0,100.0,275.0,Bonuan Boquig,Dagupan City,Pangasinan
+"New Manila, Quezon City",90.0,5.0,5.0,489.19,198.0,Mariana,Quezon City,Metro Manila
+"Greenmeadows Subdivision, Ugong Norte, Murphy, Quezon City, 1110 Ugong Norte, Quezon City",180.0,4.0,4.0,358.25,866.3,Ugong Norte,Quezon City,Metro Manila
+"Monte Vista Subdivision, 1802 Marikina, Philippines Industrial Valley, Marikina",8.5,6.0,7.0,606.25,450.0,Industrial Valley,Marikina,Metro Manila
+"Ugong, Pasig",55.0,4.0,3.5,208.0,,Ugong,Pasig,Metro Manila
+"Industrial Valley, Marikina",32.0,3.0,3.0,300.0,300.0,Industrial Valley,Marikina,Metro Manila
+"McKinley Hill Dr, 1634 Taguig City, Philippines Pinagsama, Taguig",112.0,3.0,4.0,420.0,198.0,Pinagsama,Taguig,Metro Manila
+"Valle Verde 4, Pasig",250.0,7.0,7.0,800.0,911.0,Pasig City,Manila,Metro Manila
+"San Jose, Mandaluyong",87.0,4.0,3.0,640.0,432.0,San Jose,Mandaluyong City,Metro Manila
+"Suarez Ave, Pasig, Philippines Maybunga, Pasig",75.0,5.0,5.0,581.0,653.0,Maybunga,Pasig,Metro Manila
+"Bito-On, Iloilo",14.0,3.0,3.0,216.0,260.0,Jaro,Iloilo City,Iloilo
+"Salitran IV, Dasmarinas",30.0,6.0,8.0,650.0,300.0,Salitran IV,Dasmariñas,Cavite
+"Cuayan, Angeles",23.8,5.0,7.0,342.0,208.0,Cuayan,Angeles,Pampanga
+"Hinukay, Baliuag",1.67,2.0,1.0,44.5,,Hinukay,Baliwag,Bulacan
+"Moonwalk, Paranaque",150.0,6.0,6.0,800.0,450.0,Moonwalk,Parañaque,Metro Manila
+"Angeles, Pampanga Near MQ Mall and NLEX, Pampanga, Philippines Angeles",11.5,4.0,3.0,190.0,120.0,,Angeles,Pampanga
+"Buhay na Tubig, Imus",22.5,4.0,3.0,300.0,152.0,Buhay na Tubig,Imus,Cavite
+"Salitran III, Dasmarinas",10.98,4.0,3.0,129.0,144.0,Salitran III,Dasmariñas,Cavite
+"Cuayan, Angeles",23.8,5.0,7.0,342.0,208.0,Cuayan,Angeles,Pampanga
+"Moonwalk, Paranaque",150.0,6.0,6.0,800.0,450.0,Moonwalk,Parañaque,Metro Manila
+"South Point, Cabuyao Laguna Diezmo, Cabuyao",12.5,4.0,4.0,200.0,216.0,Diezmo,Cabuyao City,Laguna
+"Camp 7, Baguio",25.0,7.0,4.0,250.0,500.0,Camp 7,Baguio,Benguet
+"Bacong, Central Visayas, Philippines Sulodpan, Bacong",11.0,4.0,3.0,200.0,1000.0,Sulodpan,Bacong,Negros Oriental
+"Blue Ridge A, Quezon City",95.0,4.0,4.0,400.0,412.0,Blue Ridge A,Quezon City,Metro Manila
+"Perez Rd Perez, Trece Martires",6.86,4.0,3.0,110.0,211.24,Perez (Lucbanan),Trece Martires City,Cavite
+"Dasmarinas, Makati",450.0,5.0,5.0,600.0,630.0,Dasmariñas,Makati City,Metro Manila
+Caloocan,3.5,2.0,2.0,,,,Caloocan,Metro Manila
+Muntinlupa,420.0,5.0,5.0,1172.0,762.0,,Muntinlupa,Metro Manila
+"Ayala Alabang, Muntinlupa",188.0,7.0,7.0,800.0,688.0,New Alabang Village,Muntinlupa,Metro Manila
+"Maytunas, San Juan",37.38,3.0,3.0,254.0,77.74,Maytunas,San Juan City,Metro Manila
+"Poblacion, Muntinlupa",10.0,3.0,4.0,314.0,157.0,Poblacion,Muntinlupa,Metro Manila
+"Sasa, Davao",12.0,6.0,5.0,260.0,300.0,Buhangin,Davao City,Davao del Sur
+"Mandurriao, Iloilo",4.8,4.0,2.0,150.0,172.0,Mandurriao,Iloilo City,Iloilo
+"Mangnao-Canal, Dumaguete",1.8,2.0,1.0,60.0,80.0,Mangnao-Canal,Dumaguete City,Negros Oriental
+"Majada Labas, Calamba",2.71,3.0,1.0,45.0,63.0,Majada Labas,Calamba,Laguna
+"Lot 153 Block 3, Road Lot 1, Filomena Subdivision San Rafael, Tarlac",1.14,1.0,1.0,60.0,200.0,San Rafael,Tarlac City,Tarlac
+"Robredo Street Carpenter Hill, Koronadal",3.54,2.0,1.0,40.0,88.0,Carpenter Hill,Koronadal,South Cotabato
+"Dalig, Antipolo",17.0,4.0,3.0,308.0,250.0,Dalig,Antipolo,Rizal
+"Phirst Editions, Kaylaway, Nasugbu, Batangas, Philippines Kaylaway, Nasugbu",5.45,3.0,2.0,99.0,70.0,Kaylaway,Nasugbu,Batangas
+"Santo Nino, Lumban",2.5,,,180.0,73.0,Santo Niño,Lumban,Laguna
+"Bingag, Dauis",3.5,4.0,2.0,94.0,300.0,Bingag,Dauis,Bohol
+"Catalunan Grande, Davao",16.0,5.0,5.0,220.0,345.0,Talomo,Davao City,Davao del Sur
+"San Agustin I, Dasmarinas",6.3,6.0,4.0,263.0,120.0,San Agustin I,Dasmariñas,Cavite
+"alicante st. visa verde executive village , cainta San Isidro, Cainta",9.5,4.0,3.0,185.0,110.0,San Isidro,Cainta,Rizal
+"237 Apitong Street Comembo, Makati",18.0,3.0,2.0,157.38,122.8,Comembo,Makati City,Metro Manila
+"San Isidro, General Santos City",2.46,,,70.0,88.0,San Isidro (Lagao 2nd),General Santos City (Dadiangas),South Cotabato
+"The Mango Grove, Santo Tomas Batangas Barangay IV, Santo Tomas",3.75,4.0,3.0,109.3,100.0,Barangay IV,Santo Tomas,Batangas
+"Ayala Alabang, Muntinlupa",460.0,7.0,7.0,1500.0,900.0,New Alabang Village,Muntinlupa,Metro Manila
+"Novaliches, Quezon City",45.0,5.0,5.0,400.0,300.0,Novaliches Proper,Quezon City,Metro Manila
+"Batasan Hills, Quezon City",115.0,5.0,6.0,655.0,300.0,Batasan Hills,Quezon City,Metro Manila
+"Alapan II-B, Imus",5.57,3.0,2.0,80.0,106.0,Alapan II-B,Imus,Cavite
+"Talon Uno, Las Pinas",26.0,4.0,4.0,315.0,204.0,Talon Uno,Las Piñas,Metro Manila
+"Tunasan, Muntinlupa",16.88,3.0,2.0,195.0,240.0,Tunasan,Muntinlupa,Metro Manila
+"Pondol, Balamban",16.8,3.0,2.0,272.0,471.0,Pondol,Balamban,Cebu
+"Paitan-Panoypoy, San Carlos",10.4,,,417.0,2467.0,Paitan-Panoypoy,San Carlos City,Pangasinan
+"Molino III, Bacoor",11.06,,,327.0,239.0,Molino III,Bacoor,Cavite
+"Bulihan, Malolos",4.38,3.0,2.0,67.0,96.0,Bulihan,Malolos,Bulacan
+"Kamuning, Quezon City, National Capital Region, Philippines Kamuning, Quezon City",16.5,3.0,4.0,260.0,80.0,Kamuning,Quezon City,Metro Manila
+"Matandang Balara, Quezon City",148.0,5.0,5.0,800.0,1000.0,Matandang Balara,Quezon City,Metro Manila
+"Isugan, Bacong, Central Visayas, Philippines Isugan, Bacong",5.0,3.0,2.0,110.0,270.0,Isugan,Bacong,Negros Oriental
+"The Mango Grove, Brgy San Roque, Sto Tomas Batangas Barangay IV, Santo Tomas",4.36,4.0,3.0,109.3,150.0,San Roque,Santo Tomas,Batangas
+"Maulawin, Pagsanjan",3.4,,,246.23,403.0,Maulawin,Pagsanjan,Laguna
+"praverde Paliparan I, Dasmarinas",14.99,5.0,3.0,166.0,169.0,Paliparan I,Dasmariñas,Cavite
+"Lantic, Carmona",1.29,1.0,,40.0,40.0,Lantic,Carmona,Cavite
+"B.F. International Village, Las Pinas",18.3,4.0,3.0,255.0,203.0,B. F. International Village,Las Piñas,Metro Manila
+"Longos, Malolos",3.97,2.0,2.0,74.0,89.0,Longos,Malolos,Bulacan
+"Bahay Pare, Meycauayan",3.5,4.0,2.0,80.0,80.0,Bahay Pare,Meycauayan,Bulacan
+"McKinley Hill, Taguig",140.0,5.0,6.0,513.0,189.0,Mckinley Hill,Taguig,Metro Manila
+"San Jose, Tagaytay",8.5,4.0,3.0,180.0,110.0,San Jose,Tagaytay City,Cavite
+"Kapitangan, Paombong",1.91,2.0,1.0,38.0,36.0,Kapitangan,Paombong,Bulacan
+"Santa Cruz, Antipolo",14.6,4.0,3.0,300.0,215.0,Santa Cruz,Antipolo,Rizal
+"Brgy. Santiago, Gen. Trias, Cavite Santiago, General Trias",1.8,2.0,,52.57,80.0,Santiago,General Trias,Cavite
+"San Gregorio, San Pablo",2.1,2.0,1.0,44.0,36.0,San Gregorio,San Pablo City,Laguna
+"Sapang Palay, San Jose del Monte",10.67,5.0,3.0,166.0,143.0,Sapang Palay,San Jose del Monte,Bulacan
+"Loyola Heights, Quezon City",16.5,4.0,3.0,260.0,161.0,Loyola Heights,Quezon City,Metro Manila
+"Ugong Norte, Quezon City",360.0,4.0,4.0,750.0,600.0,Ugong Norte,Quezon City,Metro Manila
+"Concepcion Dos, Marikina",12.0,3.0,2.0,,240.0,Concepcion Dos,Marikina,Metro Manila
+"Lot 13 Blk 4, Road Lot 12, Carmel Village Phase 2 Barandal, Calamba",1.34,1.0,1.0,48.0,80.0,Barandal,Calamba,Laguna
+"Brgy. Mabiga, Hermosa, Bataan Mabiga, Hermosa",28.0,3.0,3.0,500.0,7624.0,Mabiga,Hermosa,Bataan
+"Matandang Balara, Quezon City",190.0,5.0,7.5,1200.0,900.0,Matandang Balara,Quezon City,Metro Manila
+"Inosloban, Lipa",5.03,2.0,1.0,52.25,80.0,Inosloban,Lipa City,Batangas
+"JBC Green Acre Homes Subdivision Guiguilonen, Mangaldan",7.8,5.0,4.0,153.0,210.0,Guiguilonen,Mangaldan,Pangasinan
+"Pinagbuhatan, Pasig",7.5,4.0,4.0,180.0,60.0,Pinagbuhatan,Pasig,Metro Manila
+"Tunasan, Muntinlupa",16.88,5.0,4.0,195.0,240.0,Tunasan,Muntinlupa,Metro Manila
+"Talisay, Calatagan",12.0,4.0,3.0,300.0,2500.0,,Calatagan,Batangas
+"Pansol, Quezon City",308.0,10.0,10.0,1000.0,2055.0,Pansol,Quezon City,Metro Manila
+"Totolan, Dauis",8.8,3.0,3.0,99.75,153.0,Totolan,Dauis,Bohol
+"Tambo, Paranaque",26.0,6.0,6.0,647.5,680.0,Tambo,Parañaque,Metro Manila
+Angeles,6.8,4.0,3.0,100.0,128.0,,Angeles,Pampanga
+"Banawa, Cebu",11.0,4.0,3.0,90.0,120.0,Banawa,Cebu City,Cebu
+"Pilar, Las Pinas",8.2,4.0,3.0,153.7,58.7,Pilar,Las Piñas,Metro Manila
+"Cupang, Antipolo",9.97,3.0,3.0,167.0,120.0,Cupang,Antipolo,Rizal
+"San Miguel, Majayjay",2.25,,,160.66,109.0,San Miguel,Majayjay,Laguna
+"Baliti, San Fernando",12.0,3.0,3.0,200.0,180.0,Baliti,San Fernando,Pampanga
+"84F Brgy Claro Aguho Street, Project 3, Quezon City near Cubao Claro, Quezon City",6.0,5.0,2.0,120.0,60.67,Project 3,Quezon City,Metro Manila
+"Guadalupe, Cebu",17.0,4.0,3.0,380.0,242.0,Guadalupe,Cebu City,Cebu
+"Talibeach Balaytigui, Nasugbu",60.0,3.0,4.0,,1500.0,Balaytigui,Nasugbu,Batangas
+"Maribago, Lapu-Lapu",19.5,4.0,4.0,300.0,554.0,Maribago,Lapu-Lapu,Cebu
+Paranaque,3.0,2.0,1.0,104.0,52.0,,Parañaque,Metro Manila
+"Governor's Dr Sabang, Naic",6.49,4.0,2.0,132.34,100.0,Sabang,Naic,Cavite
+"alabang, muntinlupa Ayala Alabang, Muntinlupa",420.0,5.0,5.0,1172.0,762.0,New Alabang Village,Muntinlupa,Metro Manila
+"Manuyo Dos, Las Pinas",16.5,5.0,5.0,260.0,121.0,Manuyo Dos,Las Piñas,Metro Manila
+"Bitas, Cabanatuan",5.42,2.0,1.0,55.0,120.0,Bitas,Cabanatuan City,Nueva Ecija
+"Maribago, Lapu-Lapu City, Central Visayas, Philippines Maribago, Lapu-Lapu",15.5,3.0,2.0,340.0,250.0,Maribago,Lapu-Lapu,Cebu
+"Bitas, Cabanatuan",5.42,3.0,2.0,82.0,120.0,Bitas,Cabanatuan City,Nueva Ecija
+"San Roque, Antipolo",12.5,4.0,3.0,180.0,120.0,San Roque,Antipolo,Rizal
+"Almanza Dos, Las Pinas",17.5,4.0,4.0,200.0,263.0,Almanza Dos,Las Piñas,Metro Manila
+"Dona. Pilar Aguirre Ave, 1750 Las Pinas, Philippines Pilar, Las Pinas",8.5,5.0,4.0,160.0,80.0,Pilar,Las Piñas,Metro Manila
+"Longos, Malolos",2.07,2.0,1.0,64.8,63.0,Longos,Malolos,Bulacan
+"Dela Paz, Antipolo",14.0,4.0,3.0,240.0,173.0,Dela Paz,Antipolo,Rizal
+"San Luis, Antipolo",5.02,3.0,2.0,61.0,70.0,San Luis,Antipolo,Rizal
+"Ayala Alabang, Muntinlupa",440.0,7.0,7.0,1232.0,816.0,New Alabang Village,Muntinlupa,Metro Manila
+"Along United Nation St. Betterliving Subdivision Don Bosco, Paranaque",14.0,4.0,4.0,180.0,140.0,Don Bosco,Parañaque,Metro Manila
+"Ortigas Avenue, Pasig",16.0,9.0,4.0,190.0,240.0,,Pasig,Metro Manila
+"San Antonio, Santo Tomas",5.09,,,192.0,156.0,San Antonio,Mexico,Pampanga
+"Pinagbayanan, Pila",3.89,,,284.96,339.0,Pinagbayanan,Pila,Laguna
+"Ayala Alabang, Muntinlupa",460.0,7.0,7.0,900.0,1500.0,New Alabang Village,Muntinlupa,Metro Manila
+San Juan,13.55,3.0,3.0,100.0,200.0,,San Juan City,Metro Manila
+"Antero Soriano Hiway, Sahud-Ulan, Tanza Cavite Sahud Ulan, Tanza",1.95,3.0,2.0,40.0,45.0,Sahud-Ulan,Tanza,Cavite
+"Buhangin, Davao",3.8,2.0,2.0,93.0,60.0,Buhangin,Davao City,Davao del Sur
+"Batinguel, Dumaguete City, Central Visayas, Philippines Batinguel, Dumaguete",12.5,5.0,3.0,500.0,938.0,Batinguel,Dumaguete City,Negros Oriental
+"Clark, Mabalacat",57.0,5.0,5.0,338.0,1187.0,,Mabalacat City,Pampanga
+"Ayala Alabang, Muntinlupa",32.43,7.0,7.0,1500.0,900.0,New Alabang Village,Muntinlupa,Metro Manila
+"Talon Dos, Las Pinas",5.25,,,93.0,52.0,Talon Dos,Las Piñas,Metro Manila
+"Dauis - Panglao Rd, Dao, Panglao, 6340 Bohol Dao, Dauis",4.0,3.0,2.0,60.0,120.0,Dao,Dauis,Bohol
+"9 Rocha, Makati, 1223 Kalakhang Maynila San Lorenzo, Makati",179.0,3.0,3.0,448.0,,San Lorenzo,Makati City,Metro Manila
+"Inarawan, Antipolo",18.0,4.0,3.0,265.0,475.0,Inarawan,Antipolo,Rizal
+"Kapitolyo, Pasig",25.8,3.0,3.0,212.0,113.0,Kapitolyo,Pasig,Metro Manila
+"Tapia, General Trias",2.13,3.0,1.0,40.0,50.0,Tapia,General Trias,Cavite
+"Magallanes Village, Makati Magallanes, Makati",118.0,3.0,3.0,300.0,350.0,Magallanes,Makati City,Metro Manila
+"Dauis - Panglao Rd, Dao, Panglao, 6340 Bohol Dao, Dauis",6.7,3.0,2.0,81.0,180.0,Dao,Dauis,Bohol
+"Polo Maestra Bita, Oton",4.22,,,123.0,191.0,Polo Maestra Bita,Oton,Iloilo
+"Carsadang Bago I, 4103 Imus, Philippines Carsadang Bago I, Imus",4.0,3.0,2.0,65.0,85.0,Carsadang Bago I,Imus,Cavite
+"Muntinlupa, National Capital Region, Philippines Ayala Alabang, Muntinlupa",420.0,5.0,6.0,1600.0,868.0,New Alabang Village,Muntinlupa,Metro Manila
+"Onse, San Juan",39.5,4.0,3.0,500.0,287.0,Onse,San Juan City,Metro Manila
+"Block 20 Lot 10 Copper St., Avida Village Cerise Nuvali Canlubang, Calamba",5.0,2.0,1.0,60.0,110.0,Barangay Canlubang,Calamba,Laguna
+"Phase 2 Block 22 Lot 5 (10 Apitong St.) Verdana Homes Mamplasan Langkiwa, Binan",21.5,4.0,3.5,250.0,200.0,Langkiwa,Biñan,Laguna
+"Bali Mansion Inchican, Silang",35.0,4.0,5.0,368.0,277.0,Inchican,Silang,Cavite
+"Kaligayahan, Quezon City",10.28,5.0,3.0,220.0,77.0,Kaligayahan,Quezon City,Metro Manila
+Angeles,22.0,3.0,3.0,200.0,250.0,,Angeles,Pampanga
+"Culiat, Quezon City",35.0,4.0,3.0,350.0,496.0,Culiat,Quezon City,Metro Manila
+"B.F. Homes, Paranaque",33.0,5.0,4.0,288.0,300.0,B. F. Homes,Parañaque,Metro Manila
+"Poblacion, Muntinlupa",3.95,3.0,2.0,65.0,50.0,Poblacion,Muntinlupa,Metro Manila
+"B.F. Homes, Paranaque",45.0,5.0,5.0,375.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"San Vicente, San Pedro",4.9,2.0,1.0,61.0,70.0,San Vicente,San Pedro,Laguna
+"B.F. Homes, Paranaque",26.0,4.0,4.0,350.0,289.0,B. F. Homes,Parañaque,Metro Manila
+"Tunasan, Muntinlupa, National Capital Region, Philippines Tunasan, Muntinlupa",52.0,6.0,4.5,480.0,500.0,Tunasan,Muntinlupa,Metro Manila
+"Candau-Ay, Dumaguete City, Central Visayas, Philippines Candau-Ay, Dumaguete",5.5,2.0,2.0,110.0,121.0,Candau-ay,Dumaguete City,Negros Oriental
+"Ayala Heights, Quezon City",188.0,6.0,6.0,910.0,510.0,Ayala Heights,Quezon City,Metro Manila
+"B.F. Homes, Paranaque",32.5,4.0,4.0,268.0,287.0,B. F. Homes,Parañaque,Metro Manila
+"Philippines, Talisay, Cansojong, SRP Cansojong, Talisay",6.0,3.0,3.0,120.0,64.0,Cansojong,Talisay,Cebu
+"Lagao, General Santos City",8.0,5.0,3.0,142.0,121.0,Lagao (1st & 3rd),General Santos City (Dadiangas),South Cotabato
+"Diliman, Quezon City",12.23,3.0,3.0,182.93,62.8,Diliman,Quezon City,Metro Manila
+"B.F. Homes (Paranaque) B.F. Homes, Paranaque",18.5,3.0,3.0,300.0,204.0,B. F. Homes,Parañaque City,Metro Manila
+"B.F. Homes, Paranaque",28.9,4.0,4.0,270.0,204.0,B. F. Homes,Parañaque,Metro Manila
+"Muntinlupa, Metro Manila, Philippines Muntinlupa",8.0,3.0,2.0,83.0,120.0,,Muntinlupa,Metro Manila
+"Ampid I, San Mateo",9.8,4.0,3.0,155.0,104.0,Ampid I,San Mateo,Rizal
+"Bagong Silangan, Quezon City",20.0,5.0,5.0,300.0,240.0,Bagong Silangan,Quezon City,Metro Manila
+"Ayala Alabang, Muntinlupa",110.0,4.0,5.0,400.0,300.0,New Alabang Village,Muntinlupa,Metro Manila
+"Buck Estate, Alfonso",25.0,4.0,3.0,450.0,392.0,Buck Estate,Alfonso,Cavite
+"Telabastagan, San Fernando",45.0,5.0,6.0,432.0,1565.0,Telabastagan,San Fernando,Pampanga
+"Matandang Balara, Quezon City",105.0,5.0,5.0,650.0,330.0,Matandang Balara,Quezon City,Metro Manila
+"B.F. Homes, Paranaque",36.0,5.0,6.0,325.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Tagapo, Santa Rosa",2.09,2.0,1.0,42.0,50.0,Tagapo,City of Santa Rosa,Laguna
+"Ordonez St. Corner Champaca St. Marikina Heights, Marikina",6.9,3.0,2.0,88.9,53.0,Marikina Heights (Concepcion),Marikina,Metro Manila
+"Bangkas Heights, Davao",17.0,2.0,2.0,250.0,338.0,Toril,Davao City,Davao del Sur
+"Ususan, Taguig",112.0,5.0,6.0,182.0,232.0,Ususan,Taguig,Metro Manila
+"Kathrynville, Cutcut, Capas,Tarlac Cutcut 1st, Capas",1.76,,1.0,35.0,96.0,Cutcut,Capas,Tarlac
+"Atlu-Bola, Mabalacat",10.7,4.0,2.0,150.0,120.0,Atlu-Bola,Mabalacat City,Pampanga
+"Barangay II, Alaminos",1.14,3.0,1.0,46.6,40.0,Barangay II,Alaminos,Laguna
+"San Vicente, San Pedro",5.5,3.0,2.0,76.0,70.0,San Vicente,San Pedro,Laguna
+"Aniban I, Bacoor",16.0,5.0,6.0,411.0,360.0,Aniban I,Bacoor,Cavite
+"Loma de Gato, Marilao",7.52,3.0,2.0,90.0,112.0,Loma de Gato,Marilao,Bulacan
+"Bagumbayan, Quezon City",25.0,3.0,4.0,198.0,,Bagumbayan,Quezon City,Metro Manila
+"Magenta St., Saphhire Hills, Victoria Homes, Muntinlupa City Tunasan, Muntinlupa",2.7,2.0,1.0,37.0,79.0,Tunasan,Muntinlupa City,Metro Manila
+"Ayala Alabang Muntinlupa Metro Manila Ayala Alabang, Muntinlupa",540.0,6.0,7.0,1442.0,987.0,New Alabang Village,Muntinlupa,Metro Manila
+"Lot 16 Block 13, Amazon Street, Lakewood City Subdivision Sumacab Este, Cabanatuan",3.16,1.0,1.0,191.0,204.0,Sumacab Este,Cabanatuan City,Nueva Ecija
+"Dasmarinas, Makati",125.0,5.0,4.0,400.0,614.0,Dasmariñas,Makati City,Metro Manila
+"White Plains, Quezon City",208.0,7.0,6.0,900.0,464.0,White Plains,Quezon City,Metro Manila
+"Cabuco, Trece Martires",5.74,3.0,2.0,75.0,120.0,Cabuco,Trece Martires City,Cavite
+"Moonwalk, Paranaque",21.4,5.0,3.0,300.0,400.0,Moonwalk,Parañaque,Metro Manila
+"Cansojong, Talisay",36.0,5.0,4.0,309.0,2080.0,Cansojong,Talisay,Cebu
+"Concepcion Dos, Marikina",8.5,2.0,1.0,63.0,288.0,Concepcion Dos,Marikina,Metro Manila
+"San Luis, Antipolo",6.45,3.0,2.0,76.0,90.0,San Luis,Antipolo,Rizal
+"San Juan, Taytay",45.0,6.0,7.0,700.0,561.0,San Juan,Taytay,Rizal
+"Don Mariano Ave San Isidro, Angono",5.18,3.0,2.0,73.1,41.0,San Isidro,Angono,Rizal
+"San Lucas, Lipa",4.17,2.0,1.0,54.0,113.0,San Lucas,Lipa City,Batangas
+"Malabanias, Angeles",12.8,4.0,5.0,300.0,1098.0,Malabañas,Angeles,Pampanga
+"Santa Ana, Taytay",42.5,5.0,5.5,460.0,300.0,Santa Ana,Taytay,Rizal
+"1 Bagong Silangan, Quezon City",17.5,5.0,3.0,300.0,240.0,Bagong Silangan,Quezon City,Metro Manila
+"Matandang Balara, Quezon City",92.0,5.0,5.0,421.0,400.0,Matandang Balara,Quezon City,Metro Manila
+"Pasadena, San Juan",57.0,5.0,4.0,385.0,,Pasadeña,San Juan City,Metro Manila
+Dumaguete,10.0,6.0,4.0,318.0,210.0,,Dumaguete City,Negros Oriental
+"Dela Paz, Antipolo",14.0,4.0,3.0,240.0,173.0,Dela Paz,Antipolo,Rizal
+"Tahanan Village B.F. Homes, Paranaque",30.0,4.0,4.0,300.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Valencia Estates, Valencia, Bukidnon Lumbo, Vallencia",5.0,2.0,2.0,60.0,150.0,Lumbo,Valencia City,Bukidnon
+"San Isidro, Cainta",19.5,3.0,3.0,188.0,172.0,San Isidro,Cainta,Rizal
+"Rosario, Pasig",29.0,6.0,6.0,450.0,191.0,Rosario,Pasig,Metro Manila
+"San Miguel Village, Makati",125.0,4.0,3.0,300.0,330.0,San Miguel Village,Makati City,Metro Manila
+"Bonuan Boquig, Dagupan",5.04,3.0,2.0,80.0,190.0,Bonuan Boquig,Dagupan City,Pangasinan
+"Ayala Alabang, Muntinlupa",125.0,4.0,5.0,400.0,300.0,New Alabang Village,Muntinlupa,Metro Manila
+"Holy Spirit, Quezon City",45.0,5.0,5.0,350.0,464.0,Holy Spirit,Quezon City,Metro Manila
+"B.F. Homes, Paranaque",49.0,5.0,5.0,450.0,510.0,B. F. Homes,Parañaque,Metro Manila
+"Batasan Hills, Quezon City",15.0,5.0,4.0,303.0,90.0,Batasan Hills,Quezon City,Metro Manila
+"West Triangle, Quezon City",25.0,3.0,3.0,270.0,101.0,West Triangle,Quezon City,Metro Manila
+"Pulo, Cabuyao, Laguna, Philippines Pulo, Cabuyao",30.0,5.0,4.0,550.0,386.0,Pulo,Cabuyao City,Laguna
+"Daang Hari, 1751 Las Pinas, Philippines Almanza Dos, Las Pinas",50.0,5.0,5.0,323.0,302.0,Almanza Dos,Las Piñas,Metro Manila
+"Ayala Alabang Village Ayala Alabang, Muntinlupa",120.0,4.0,5.0,400.0,720.0,New Alabang Village,Muntinlupa,Metro Manila
+"B.F. Homes, Paranaque",37.5,5.0,5.0,375.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Urdaneta, Makati",800.0,5.0,5.0,700.0,1156.0,Urdaneta,Makati City,Metro Manila
+"West Kamias, Quezon City",28.0,6.0,2.0,,300.0,West Kamias,Quezon City,Metro Manila
+"Santo Nino, Marikina",18.0,3.0,3.0,260.0,144.0,Santo Niño,Marikina,Metro Manila
+"Kapitolyo, Pasig",120.0,3.0,3.0,,444.0,Kapitolyo,Pasig,Metro Manila
+Cebu,10.0,4.0,1.0,,184.0,,Cebu City,Cebu
+"Pan-Philippine Hwy San Vicente, San Pablo",3.4,3.0,2.0,66.0,80.0,San Vicente,San Pablo City,Laguna
+"Jaro, Iloilo",3.82,3.0,2.0,53.24,72.0,Jaro,Iloilo City,Iloilo
+"Casile, Cabuyao",17.5,4.0,3.0,250.0,214.0,Casile,Cabuyao City,Laguna
+"Canlucani, Dapitan City, Zamboanga Peninsula, Philippines Canlucani, Dapitan",,2.0,6.0,300.0,5300.0,Canlucani,Dapitan City,Zamboanga del Norte
+"88 Brookside San Roque Talisay San Roque, Talisay",6.45,4.0,2.0,86.0,110.0,San Roque,Talisay,Cebu
+"Buhangin, Davao",18.5,4.0,4.0,190.0,184.0,Buhangin,Davao City,Davao del Sur
+"1 Tandang Sora, Quezon City",8.0,3.0,2.0,110.0,45.0,Tandang Sora,Quezon City,Metro Manila
+"Tapia, General Trias",2.25,3.0,1.0,40.0,50.0,Tapia,General Trias,Cavite
+"Sampaloc, Manila",27.0,6.0,6.0,,180.0,Sampaloc,Manila,Metro Manila
+"Bago Oshiro, Davao",16.0,5.0,4.0,210.0,208.0,Bago Oshiro,Davao City,Davao del Sur
+"Novaliches, Quezon City",45.0,5.0,5.0,400.0,300.0,Novaliches Proper,Quezon City,Metro Manila
+"Salaban, Amadeo",12.0,6.0,5.0,110.0,240.0,Salaban,Amadeo,Cavite
+"San Martin de Porres, Paranaque",4.77,,,136.31,,San Martin de Porres,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",130.0,4.0,4.0,500.0,550.0,New Alabang Village,Muntinlupa,Metro Manila
+"Priscilla Estates Cabantian, Davao",10.5,4.0,3.0,130.0,300.0,Buhangin,Davao City,Davao del Sur
+"Sun Valley, Paranaque",38.0,3.0,3.0,417.0,472.0,Sun Valley,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",420.0,7.0,7.0,1233.0,816.0,New Alabang Village,Muntinlupa,Metro Manila
+"Cabilang Baybay, Carmona",23.61,3.0,2.0,243.0,240.0,Cabilang Baybay,Carmona,Cavite
+"K-3rd Street Kamuning, Quezon City",16.5,4.0,4.0,240.0,60.0,Kamuning,Quezon City,Metro Manila
+"West Crame, San Juan",28.0,8.0,4.0,420.0,315.0,West Crame,San Juan City,Metro Manila
+"Batasan Hills, Quezon City",72.0,4.0,4.0,504.0,300.0,Batasan Hills,Quezon City,Metro Manila
+"San Antonio, Paranaque",9.5,4.0,4.0,250.0,117.0,San Antonio,Parañaque City,Metro Manila
+"Ayala Alabang, Muntinlupa",420.0,5.0,5.0,1172.0,762.0,New Alabang Village,Muntinlupa,Metro Manila
+"San Isidro, Cainta",14.64,3.0,3.0,148.0,139.5,San Isidro,Cainta,Rizal
+"Lot No. 1521-A-5-B, No.757 Fatima Street Bagbaguin, Santa Maria",4.28,1.0,1.0,156.0,250.0,Bagbaguin,Santa Maria,Bulacan
+"Santo Nino, San Mateo",2.0,2.0,2.0,80.0,120.0,Santo Niño,San Mateo,Rizal
+"Almanza Dos, Las Pinas",70.0,5.0,5.0,490.0,,Almanza Dos,Las Piñas,Metro Manila
+"San Isidro, Antipolo",8.0,4.0,3.0,166.0,108.0,San Isidro,Antipolo,Rizal
+"Santa Clara Sur, Pila",4.0,,,160.0,341.0,Santa Clara Sur,Pila,Laguna
+"San Miguel, Pasig",29.0,5.0,4.0,334.0,235.0,San Miguel,Pasig,Metro Manila
+"Maria Luisa Estate Park Cebu City Budla-An, Cebu",220.0,10.0,7.0,1522.0,735.0,Budla-an,Cebu City,Cebu
+San Fernando,16.8,4.0,3.0,240.0,180.0,,San Fernando,Pampanga
+"Dalig, Antipolo",11.16,3.0,3.0,90.0,150.0,Dalig,Antipolo,Rizal
+"Camella Cabid-An, Sorsogon City, Sorsogon, Bicol, Philippines Cabid-An, Sorsogon",2.86,2.0,1.0,36.0,44.0,Cabid-An,Sorsogon City,Sorsogon
+"Natipuan, Nasugbu",35.0,5.0,5.0,,1160.0,Natipuan,Nasugbu,Batangas
+"Sucat, Muntinlupa",24.0,4.0,,250.0,300.0,Sucat,Muntinlupa City,Metro Manila
+"B.F. Homes, Paranaque",34.8,5.0,5.0,360.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Ayala Alabang, Muntinlupa",158.0,5.0,,,600.0,New Alabang Village,Muntinlupa,Metro Manila
+"Piazetta Street, The Court Yard of Maia Alta, Dalig, Antipolo City Dalig, Antipolo",8.5,3.0,3.0,186.0,183.0,Dalig,Antipolo,Rizal
+Davao,70.0,6.0,6.0,780.0,1500.0,,Davao City,Davao del Sur
+"Agus, Lapu-Lapu",6.59,,,160.0,160.0,Agus,Lapu-Lapu,Cebu
+"Bocohan, Lucena",1.38,,,43.0,65.0,Bocohan,Lucena City,Quezon
+"Kalawaan, Binangonan",1.73,1.0,,80.0,66.0,Kalawaan,Binangonan,Rizal
+"Pasay Rotonda, Pasay",13.5,4.0,4.0,216.0,72.0,Rotonda,Pasay City,Metro Manila
+"Lot 9-B Corazon Street Saint Bernadette Heights Subdivision Barangay del Rosario City of San Fernando Pampanga Del Rosario, San Fernando",5.5,3.0,5.0,202.5,120.0,Del Rosario,San Fernando,Pampanga
+"Concepcion, San Pablo",3.62,,,154.0,261.0,Concepcion,San Pablo City,Laguna
+"San Miguel, Pasig",25.5,7.0,6.0,350.0,150.0,San Miguel,Pasig,Metro Manila
+"Almanza Dos, Las Pinas",35.87,4.0,4.0,278.0,240.0,Almanza Dos,Las Piñas,Metro Manila
+"Pilar, Las Pinas",16.5,4.0,4.0,195.0,280.0,Pilar,Las Piñas,Metro Manila
+"San Roque, Rosario",5.25,,,250.0,250.0,San Roque,Rosario,Batangas
+"Lots 1, 2 and 3 along existing Road Sitio Bagong Sikat Barangay Tabang Plaridel Tabang, Plaridel",8.0,3.0,4.0,344.0,1058.0,Tabang,Plaridel,Bulacan
+"Pamplona Dos, Las Pinas",6.3,3.0,2.0,100.0,79.0,Pamplona Dos,Las Piñas,Metro Manila
+"B.F. Homes Paranaque Metro Manila B.F. Homes, Paranaque",18.0,3.0,4.0,220.0,288.0,B. F. Homes,Parañaque City,Metro Manila
+"B.F. Homes, Paranaque",23.0,4.0,3.0,200.0,221.0,B. F. Homes,Parañaque,Metro Manila
+"Dely St Muntingdilaw, Antipolo",5.0,2.0,2.0,81.0,60.0,Muntingdilaw,Antipolo City,Rizal
+"Pinagsanjan, Pagsanjan",3.52,,,160.0,156.0,Pinagsanjan,Pagsanjan,Laguna
+"Biclatan, General Trias",8.46,4.0,2.0,167.0,154.0,Biclatan,General Trias,Cavite
+"Merville, Paranaque",60.0,4.0,5.0,627.0,306.0,Merville,Parañaque,Metro Manila
+"Lot I-14 (Block 16, Lot 14), Along Grenada Street, Camella Homes Phase 1 San Isidro, General Santos City",1.97,1.0,1.0,46.0,77.0,San Isidro (Lagao 2nd),General Santos City (Dadiangas),South Cotabato
+"San Isidro, Paranaque",18.0,3.0,3.0,300.0,450.0,San Isidro,Parañaque,Metro Manila
+"Inarawan, Antipolo",15.0,4.0,3.0,170.0,127.0,Inarawan,Antipolo,Rizal
+"Tagaytay Nasugbu Hwy, 4213 Balayan, Philippines San Gregorio, Laurel",17.0,3.0,4.0,800.0,290.0,San Gregorio,Tagaytay City,Cavite
+"Block 9, Lot 23, Along Road Lot 4, Carmel Village Phase 2B Barandal, Calamba",1.35,1.0,1.0,48.0,80.0,Barandal,Calamba,Laguna
+"Cabid-An, Sorsogon Cabid-An, Sorsogon",6.14,3.0,2.0,66.0,88.0,Cabid-An,Sorsogon City,Sorsogon
+"Alapan II-B, Imus",2.67,3.0,2.0,60.0,50.0,Alapan II-B,Imus,Cavite
+"Daang Hari Road, Bacoor",11.06,4.0,4.0,131.0,141.0,,Bacoor,Cavite
+"Molino-Paliparan Rd Molino IV, Bacoor",8.0,3.0,2.0,81.0,120.0,Molino IV,Bacoor,Cavite
+"Inarawan, Antipolo",15.0,4.0,3.0,258.0,180.0,Inarawan,Antipolo,Rizal
+"Mamatid, Cabuyao",1.19,,,72.25,81.0,Mamatid,Cabuyao City,Laguna
+"Dona Pilar Sasa, Davao City Sasa, Davao",16.0,5.0,4.0,167.0,152.0,Buhangin,Davao City,Davao del Sur
+"Ayala Alabang, Muntinlupa",213.0,5.0,5.0,800.0,660.0,New Alabang Village,Muntinlupa,Metro Manila
+"Salu, Porac",0.87,1.0,1.0,32.0,62.0,Salu,Porac,Pampanga
+"Poblacion Occidental, Consolacion",22.0,6.0,5.0,400.0,394.0,Poblacion Occidental,Consolacion,Cebu
+"Brgy 3 Poblacion Alaminos Laguna Barangay III, Alaminos",6.27,3.0,2.0,77.0,140.0,Brgy 3 Poblacion,Alaminos,Laguna
+"Kalubkob, Silang",5.78,3.0,3.0,108.0,117.0,Kalubkob,Silang,Cavite
+"Lot 13 Block 17, Along road lot 22. Camella Lessandra A Jibao-An, Pavia",1.3,1.0,1.0,48.0,70.0,Jibao-An,Pavia,Iloilo
+"Lot 17, Block 12, Apo St., Brgy. Mabini Homesite, Cabanatuan City, Nueva Ecija Mabini Homesite, Cabanatuan",1.41,1.0,,64.0,180.0,Mabini Homesite,Cabanatuan City,Nueva Ecija
+"Dely St Muntingdilaw, Antipolo",7.26,3.0,2.0,93.0,155.0,Muntingdilaw,Antipolo City,Rizal
+"Talon Dos, Las Pinas",15.8,4.0,3.0,175.0,115.25,Talon Dos,Las Piñas,Metro Manila
+"Joyao-Joyao, Numancia",2.96,2.0,1.0,46.0,44.0,Joyao-joyao,Numancia,Aklan
+"Joyao-Joyao, Numancia, Western Visayas, Philippines Joyao-Joyao, Numancia",1.97,1.0,1.0,22.0,44.0,Joyao-joyao,Numancia,Aklan
+"Lagtang, Talisay, Central Visayas, Philippines Lagtang, Talisay",13.0,3.0,2.0,172.0,150.0,Lagtang,Talisay,Cebu
+"Maharlika Hwy, 4418 Pili, Philippines Palestina, Pili",3.56,2.0,2.0,42.0,,Palestina,Pili,Camarines Sur
+"Concepcion Uno, Marikina",6.5,5.0,3.0,300.0,380.0,Concepcion Uno,Marikina,Metro Manila
+"Talon Uno, Las Pinas",15.0,4.0,4.0,220.0,111.0,Talon Uno,Las Piñas,Metro Manila
+"Salu, Porac",1.23,2.0,1.0,39.0,107.0,Salu,Porac,Pampanga
+"Bagong Nayon, Antipolo",3.4,1.0,,243.0,77.0,Bagong Nayon,Antipolo,Rizal
+"Cupang, Antipolo",6.56,3.0,2.0,99.27,60.7,Cupang,Antipolo,Rizal
+"Toril, Davao",19.5,4.0,4.0,330.0,550.0,Toril,Davao City,Davao del Sur
+"Camella Homes, Cabid-An, Sorsogon, Bicol, Philippines Cabid-An, Sorsogon",4.34,2.0,1.0,46.0,66.0,Cabid-An,Sorsogon City,Sorsogon
+"San Andres, Cainta",26.5,5.0,5.0,350.0,150.0,San Andres,Cainta,Rizal
+"Ma-A, Davao",16.0,4.0,4.0,202.0,180.0,Ma-a,Davao City,Davao del Sur
+"Timalan Balsahan, Naic",1.6,2.0,1.0,47.0,54.0,Timalan Balsahan,Naic,Cavite
+"Langkaan I, Dasmarinas",2.07,2.0,1.0,44.5,58.5,Langkaan I,Dasmariñas,Cavite
+"Along Molino Road Molino III, Bacoor",8.23,4.0,3.0,98.0,131.0,Molino III,Bacoor,Cavite
+"Don Jose, Santa Rosa",18.0,5.0,4.0,304.0,200.0,Don Jose,City of Santa Rosa,Laguna
+"Talisay, Calatagan",8.83,,,375.0,1768.0,,Calatagan,Batangas
+"Duale, Limay",1.67,1.0,,80.0,62.0,Duale,Limay,Bataan
+"Saimsim, Calamba",3.5,,,157.3,65.0,Saimsim,Calamba,Laguna
+"Tunasan, Muntinlupa",13.0,3.0,3.0,140.0,240.0,Tunasan,Muntinlupa,Metro Manila
+"Mayamot, Antipolo",13.0,4.0,3.0,144.0,120.0,Mayamot,Antipolo,Rizal
+"Talon Dos, Las Pinas",15.0,5.0,4.0,240.0,122.0,Talon Dos,Las Piñas,Metro Manila
+"Inarawan, Antipolo",50.0,4.0,5.0,495.0,521.0,Inarawan,Antipolo,Rizal
+"Hoyo, Silang",6.55,4.0,2.0,116.4,176.0,Hoyo,Silang,Cavite
+"San Andres, Cainta",26.5,5.0,5.0,350.0,150.0,San Andres,Cainta,Rizal
+"Binicuil, Kabankalan",4.2,,,170.1,200.0,Binicuil,Kabankalan City,Negros Occidental
+"Ayala Alabang, Muntinlupa",900.0,5.0,5.0,1080.0,2571.0,New Alabang Village,Muntinlupa,Metro Manila
+"B.F. Homes, Paranaque",17.8,3.0,2.0,280.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"San Miguel, Pasig",25.0,6.0,6.0,380.0,150.0,San Miguel,Pasig,Metro Manila
+"San Antonio, Paranaque, National Capital Region, Philippines Don Bosco, Paranaque",9.49,3.0,3.0,121.0,100.0,San Antonio,Parañaque City,Metro Manila
+"Hugo Perez Rd Perez, Trece Martires",2.11,3.0,2.0,64.26,50.0,Perez (Lucbanan),Trece Martires,Cavite
+"New Manila, Quezon City",65.0,5.0,5.0,488.0,167.0,Mariana,Quezon City,Metro Manila
+"Sun Valley, Paranaque, National Capital Region, Philippines Sun Valley, Paranaque",9.2,4.0,3.0,118.7,66.0,Sun Valley,Parañaque,Metro Manila
+"Penguin St., Zabarte Subd., Quezon City Kaligayahan, Quezon City",5.48,3.0,2.0,94.38,60.0,Novaliches,Quezon City,Metro Manila
+"Langkaan I, Dasmarinas",3.2,3.0,2.0,110.0,150.0,Langkaan I,Dasmariñas,Cavite
+"Dely St Muntingdilaw, Antipolo",5.32,2.0,2.0,88.0,60.0,Muntingdilaw,Antipolo City,Rizal
+"Duale, Limay",1.67,1.0,,80.0,62.0,Duale,Limay,Bataan
+"Taytay, Calabarzon, Philippines San Isidro, Taytay",10.4,6.0,5.0,300.0,139.0,San Isidro,Taytay,Rizal
+"McKinley Hill, Taguig",208.0,5.0,6.0,642.0,288.0,Mckinley Hill,Taguig,Metro Manila
+"Merville, Paranaque",78.0,4.0,4.0,300.0,705.0,Merville,Parañaque,Metro Manila
+"Gulang-Gulang, Lucena",6.69,,,379.0,308.0,Gulang-gulang,Lucena City,Quezon
+"Inarawan, Antipolo",68.0,7.0,7.0,884.0,523.0,Inarawan,Antipolo,Rizal
+"Inchican, Silang",17.99,3.0,2.0,220.0,150.0,Inchican,Silang,Cavite
+"Forbes Park, Makati, National Capital Region, Philippines Forbes Park, Makati",2500.0,5.0,7.0,2100.0,1525.0,Forbes Park,Makati City,Metro Manila
+"Valle Verde 2, Pasig",165.0,4.0,4.0,,509.0,Valle Verde 2,Pasig,Metro Manila
+"Taculing, Bacolod",2.66,,,90.0,96.0,Taculing,Bacolod,Negros Occidental
+"Lumbia, Cagayan de Oro",,4.0,3.0,85.0,99.0,Lumbia,Cagayan De Oro City,Misamis Oriental
+"Agus, Lapu-Lapu",9.0,4.0,5.0,156.0,150.0,Agus,Lapu-Lapu,Cebu
+"Langgam, San Pedro",2.48,1.0,1.0,26.0,84.0,Langgam,San Pedro,Laguna
+"Lot 74 G and F Wilson Street ( interior of Fulton Street ) Barangay Lahug Cebu City Cebu Lahug, Cebu",6.5,3.0,4.0,184.0,130.0,Lahug,Cebu City,Cebu
+"Parang, Marikina",6.5,3.0,2.0,81.0,88.81,Parang,Marikina,Metro Manila
+"Fairview, Quezon City",6.95,3.0,3.0,96.0,60.0,Fairview,Quezon City,Metro Manila
+"Alabang, Muntinlupa",63.5,7.0,7.0,700.0,460.0,Alabang,Muntinlupa City,Metro Manila
+"TALON DOS BF RESORT Talon Dos, Las Pinas",15.0,4.0,3.0,210.0,111.0,Talon Dos,Las Piñas,Metro Manila
+"Bulihan, Malolos",3.81,2.0,2.0,52.0,96.0,Bulihan,Malolos,Bulacan
+"B.F. Homes, Paranaque",45.0,4.0,4.0,350.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Banaybanay, Padre Garcia",2.3,3.0,1.0,48.0,52.0,Banaybanay,Padre Garcia,Batangas
+"Bakakeng North, Baguio",20.0,3.0,4.0,280.0,408.0,Bakakeng North,Baguio,Benguet
+"Hibok-hibok, Block 20, Lot 12, Pulu Amsic Subdivision Amsic, Angeles",19.9,3.0,4.0,240.0,246.0,Amsic,Angeles,Pampanga
+"St. Francis Homes XI, Binan Laguna Canlalay, Binan",9.0,5.0,3.0,280.0,279.0,Canlalay,Biñan,Laguna
+"San Vicente, San Pablo",3.5,3.0,2.0,57.44,80.0,San Vicente,San Pablo City,Laguna
+"Antipolo, Calabarzon, Philippines San Roque, Antipolo",6.5,3.0,3.0,130.72,60.0,San Roque,Antipolo,Rizal
+"Pan-Philippine Hwy San Vicente, San Pablo",3.7,4.0,2.0,85.0,74.0,San Vicente,San Pablo City,Laguna
+"San Antonio, Santo Tomas",7.35,,,229.66,288.0,San Antonio,Mexico,Pampanga
+"Pan-Philippine Hwy San Vicente, San Pablo",2.6,3.0,2.0,54.7,50.0,San Vicente,San Pablo City,Laguna
+"Panorama St, 1811 Marikina, Philippines Marikina Heights, Marikina",6.6,4.0,2.0,140.0,70.0,Marikina Heights,Marikina,Metro Manila
+"Del Carmen, San Fernando",5.0,3.0,2.0,150.0,81.0,Del Carmen,San Fernando,Pampanga
+"Damilag, Manolo Fortich",1.7,3.0,2.0,52.5,116.0,Damilag,Manolo Fortich,Bukidnon
+"Lot 12, Block 8, Along unnamed subd. road, Tungkop, Minglanilla",3.2,1.0,1.0,124.0,124.0,Tungkop,Minglanilla,Cebu
+"Barangay 2, Batangas City",5.73,1.0,,329.0,172.0,Barangay 2,Batangas City,Batangas
+"Lot 15 Block 4, Along Road Lot 4, Camella Pine Grove Phase 2 Mandalagan, Bacolod",3.1,1.0,1.0,83.0,91.0,Mandalagan,Bacolod,Negros Occidental
+"Mayamot, Antipolo",15.0,3.0,3.0,160.0,120.0,Mayamot,Antipolo,Rizal
+"Calendola, San Pedro",5.5,1.0,1.0,26.0,60.0,Calendola,San Pedro,Laguna
+"Lot 2, Block 23, Calle Cantabria, Camella Solamente, Brgy. Soro-Soro Karsada, Batangas City, Batangas Sorosoro Karsada, Batangas City",2.53,1.0,,67.62,88.0,Soro-Soro Karsada,Batangas City,Batangas
+"Balsic, Hermosa",2.1,3.0,1.0,70.0,118.0,Balsic,Hermosa,Bataan
+"Salu, Porac",1.79,2.0,1.0,44.0,107.0,Salu,Porac,Pampanga
+"Olivarez Tagaytay San Jose, Tagaytay",14.9,5.0,7.0,350.0,264.0,Maitim 2nd East,Tagaytay City,Cavite
+"Malainen Luma, Naic",1.82,2.0,1.0,38.0,84.0,Malainen Luma,Naic,Cavite
+"Molino-Paliparan Rd Molino IV, Bacoor",3.7,2.0,1.0,42.4,72.0,Molino IV,Bacoor,Cavite
+"Santan St Cupang, Antipolo",4.15,3.0,2.0,78.3,50.0,Cupang,Antipolo,Rizal
+"Carsadang Bago, Imus, Calabarzon, Philippines Carsadang Bago I, Imus",3.2,3.0,3.0,94.0,50.0,Carsadang Bago I,Imus,Cavite
+"Laslasong Sur, Santa Maria",4.76,,,225.0,1382.0,Laslasong Sur,Santa Maria,Ilocos Sur
+"B.F. Homes, Paranaque",32.5,5.0,4.0,370.0,280.0,B. F. Homes,Parañaque,Metro Manila
+"Tunasan, Muntinlupa",50.0,4.0,4.0,475.0,338.0,Tunasan,Muntinlupa,Metro Manila
+"Diliman, Quezon City",13.0,3.0,3.0,180.0,60.0,Diliman,Quezon City,Metro Manila
+"Lot 1, Block 21A, Costa Brava corner Girona Sts., Montefaro West Village, Phase 3, Brgy. Bucandala, Imus City, Cavite Alapan I-B, Imus",2.78,1.0,,69.0,129.0,Alapan I-B,Imus,Cavite
+"Amsic, Angeles",12.8,4.0,4.0,128.0,150.0,Amsic,Angeles,Pampanga
+"Silangan, San Mateo",14.0,3.0,3.0,240.0,152.0,Silangan,San Mateo,Rizal
+"Salitran I, Dasmarinas",2.18,,,116.0,55.0,Salitran I,Dasmariñas,Cavite
+"Sabutan, Silang",3.5,2.0,2.0,67.0,80.0,Sabutan,Silang,Cavite
+"Nambalan, Santa Ignacia",0.36,,,64.0,334.0,Nambalan,Santa Ignacia,Tarlac
+"Navarro, General Trias",1.82,,,63.8,50.0,Navarro,General Trias,Cavite
+"B. F. Homes, Paranaque, National Capital Region, Philippines B.F. Homes, Paranaque",31.8,5.0,,470.0,165.0,B. F. Homes,Parañaque,Metro Manila
+"De La Paz, Binan",3.95,,,337.7,289.0,De La Paz,Biñan,Laguna
+"Congressional Avenue, Quezon City",10.9,3.0,1.0,140.0,80.0,,Quezon City,Metro Manila
+"Salitran I, Dasmarinas",35.0,4.0,4.0,301.0,491.0,Salitran I,Dasmariñas,Cavite
+"Santa Clara Sur, Pila",1.38,,,78.1,110.0,Santa Clara Sur,Pila,Laguna
+"Buho, Silang",8.5,3.0,3.0,120.0,108.0,Buho,Silang,Cavite
+"San Juan, Taytay",4.7,4.0,4.0,120.0,60.0,San Juan,Taytay,Rizal
+"Don Bosco, Paranaque",15.5,4.0,3.0,260.0,200.0,Don Bosco,Parañaque,Metro Manila
+"Catalunan Pequeno, Davao",3.0,2.0,1.0,36.0,120.0,Talomo,Davao City,Davao del Sur
+"Inchican, Silang",39.0,7.0,4.0,300.0,345.0,Inchican,Silang,Cavite
+"Tambongon, San Remigio",3.5,,,30.0,915.0,Tambongon,San Remigio,Cebu
+"Saranay Road Bagumbong Caloocan City Bagumbong, Caloocan",4.44,3.0,2.0,72.0,80.0,Barangay 171,Caloocan,Metro Manila
+"Punta I, Tanza",1.69,3.0,1.0,45.0,36.0,Punta I,Tanza,Cavite
+"De Castro Ave, Pasig, Philippines Rosario, Pasig",7.0,3.0,3.0,110.0,73.0,Rosario,Pasig,Metro Manila
+Taytay,9.0,4.0,2.0,160.0,111.0,,Taytay,Rizal
+"B.F. Homes, Paranaque",24.0,3.0,3.0,290.0,204.0,B. F. Homes,Parañaque,Metro Manila
+"Barangay II, Alaminos",4.43,2.0,2.0,106.0,138.0,Barangay II,Alaminos,Laguna
+"San Antonio Rd San Antonio, Binan",2.75,2.0,1.0,43.0,45.0,San Antonio,Biñan,Laguna
+"Lot 5 Block 10 Torquise Street City Heights Subdivision Barangay Taculing Bacolod City Negros Occidental Taculing, Bacolod",7.0,3.0,4.0,226.0,240.0,Taculing,Bacolod,Negros Occidental
+"Pasong Buaya II, Imus",3.4,2.0,1.0,80.0,57.5,Pasong Buaya II,Imus,Cavite
+"C. Lawis Ext San Luis, Antipolo",4.0,3.0,2.0,80.0,48.0,San Luis,Antipolo,Rizal
+"Teachers Village East, Quezon City",22.6,4.0,4.0,265.69,68.0,Diliman,Quezon City,Metro Manila
+"Dila, Santa Rosa",3.7,,,200.0,372.0,Dila,City of Santa Rosa,Laguna
+"Teachers Village East, Quezon City",16.0,3.0,3.0,175.0,67.0,Diliman,Quezon City,Metro Manila
+"Santa Lucia, Pasig",8.53,3.0,2.0,132.0,90.0,Santa Lucia,Pasig,Metro Manila
+"Biga I, Silang",7.49,3.0,2.0,66.0,121.0,Biga I,Silang,Cavite
+"Alabang, Muntinlupa",32.44,5.0,6.0,237.0,,Alabang,Muntinlupa City,Metro Manila
+"Kaunlaran Rd Palo-Alto, Calamba",4.5,3.0,2.0,54.0,96.0,Palo-Alto,Calamba,Laguna
+"Lot 10 Block 21 Coolidge Street Cuesta Verde Executive Village Phase 2 Barangay Dalig Antipolo City Rizal Dalig, Antipolo",5.2,6.0,6.0,192.72,157.0,Dalig,Antipolo,Rizal
+"Calicanto, Batangas City",4.31,,,185.37,346.0,Calicanto,Batangas City,Batangas
+"Bugtong Na Pulo, Lipa",8.36,5.0,3.0,150.0,150.0,Bugtong na Pulo,Lipa City,Batangas
+"Balsic, Hermosa",1.7,3.0,1.0,40.0,70.0,Balsic,Hermosa,Bataan
+"Loma, Binan",2.0,,,115.0,63.0,Loma,Biñan,Laguna
+"Bucandala III, Imus",3.7,3.0,,94.0,50.0,Bucandala III,Imus,Cavite
+"Lot 14 Block 6, Road Lot 2, Ruby Drive, Camella Santiago City Batal, Santiago",3.0,1.0,1.0,90.0,119.0,Batal,City of Santiago,Isabela
+"B.F. Homes, Paranaque",36.0,5.0,4.0,250.0,204.0,B. F. Homes,Parañaque,Metro Manila
+"Buhangin, Davao",15.9,5.0,3.0,300.0,162.0,Buhangin,Davao City,Davao del Sur
+"Block 13 Lot 3, Along Road Lot 14, Savannah Glen D Camella Abilay Norte, Oton",2.08,1.0,1.0,,,Abilay Norte,Oton,Iloilo
+"Panungyanan, General Trias",4.5,4.0,2.0,81.0,100.0,Panungyanan,General Trias,Cavite
+"Dungon, Iloilo",8.0,4.0,3.0,240.0,212.0,Dungon,Iloilo City,Iloilo
+"Ana Ros Subdivision, Hibao-an Norte, Mandurriao Mandurriao, Iloilo",5.5,3.0,3.0,112.0,100.0,Hibao-an Norte,Iloilo City,Iloilo
+"Lot 3 Block 3 PCS-04-002881 Diamond Street Palmera Hills 2 Barangay Dolores Taytay Dolores, Taytay",6.8,4.0,4.0,208.78,281.0,Dolores,Taytay,Rizal
+"Lots 5, 6, 7 & 8 Jardin Leonila Subdivision Barangay Maahas Los Banos Laguna Maahas, Los Banos",6.64,9.0,5.0,438.0,480.0,Maahas,Los Baños,Laguna
+"Lot 1 Blk 11, Road Lot 8 Corner Road Lot 2, Carmel Village Barandal, Calamba",1.86,1.0,1.0,48.0,159.0,Barandal,Calamba,Laguna
+"The Regina Northview Subdivision, Cutcut I, Capas, Tarlac Cutcut 1st, Capas",2.18,2.0,1.0,36.0,100.0,Cutcut 1st,Capas,Tarlac
+"BAGONG NAYON 1 Bagong Nayon, Antipolo",5.8,7.0,5.0,151.0,150.0,Bagong Nayon,Antipolo,Rizal
+"Lawa, Calamba",2.4,4.0,2.0,62.22,60.0,Lawa,Calamba,Laguna
+"Ibabang Iyam, Lucena",1.86,,,60.0,60.0,Ibabang Iyam,Lucena City,Quezon
+"Farmington Street, Hillcrest Subdivision, Talomo District, Diversion Road Talomo, Davao",2.66,3.0,2.0,38.0,121.0,Talomo,Davao City,Davao del Sur
+"Awai, San Jacinto",5.14,,,71.0,10000.0,Awai,San Jacinto,Pangasinan
+"Santa Ana, Taytay",34.0,4.0,3.0,350.0,192.0,Santa Ana,Taytay,Rizal
+"Pandan, Angeles",28.0,4.0,3.0,272.0,221.0,Pandan,Angeles,Pampanga
+"Project 8, Quezon City",5.0,2.0,1.0,69.0,35.0,Project 8,Quezon City,Metro Manila
+"Lot 20, Blk 5, Along Cherry St., Savannah Glen F Abilay Norte, Oton",1.4,1.0,1.0,46.0,91.0,Abilay Norte,Oton,Iloilo
+"It-Ba, Manito",25.0,7.0,5.0,,573.0,It-Ba,Manito,Albay
+"Salitran I, Dasmarinas",10.98,3.0,3.0,110.0,120.0,Salitran I,Dasmariñas,Cavite
+"San Miguel, Pasig",15.5,5.0,3.0,180.0,120.0,San Miguel,Pasig,Metro Manila
+"Maharlika West, Tagaytay",22.0,4.0,4.0,400.0,600.0,Maharlika West,Tagaytay City,Cavite
+"Apo Street, Pulu Amsic Subdivision Amsic, Angeles",220.0,11.0,12.0,2200.0,1399.0,Amsic,Angeles,Pampanga
+"Kaybagal North, Tagaytay",13.0,4.0,5.0,300.0,400.0,Kaybagal North,Tagaytay City,Cavite
+"Tatala Rd Tatala, Binangonan",2.5,2.0,1.0,50.0,64.0,Tatala,Binangonan,Rizal
+"Don Bosco, Paranaque",18.5,5.0,5.0,240.0,210.0,Don Bosco,Parañaque,Metro Manila
+"Abilay Norte, Oton",2.34,,,60.0,144.0,Abilay Norte,Oton,Iloilo
+"San Isidro, Batangas City",4.21,,,153.0,115.0,San Isidro,Batangas City,Batangas
+"M Residences at Mahogany Place 3, Acacia Estates, Taguig City Bambang, Taguig",22.75,4.0,4.0,119.27,75.0,Bambang,Taguig,Metro Manila
+"Bambang, Taguig",24.37,4.0,3.0,166.0,75.0,Bambang,Taguig,Metro Manila
+"Lots 1 and 2 Block 25 Coolidge Street corner Buchanan Street Cuesta Verde Executive Village Phase 2 Barangay Dalig Antipolo City Rizal Dalig, Antipolo",8.0,6.0,7.0,239.0,269.0,Dalig,Antipolo,Rizal
+"Greenhills, San Fernando, Central Visayas, Philippines Tonggo, San Fernando",1.5,1.0,1.0,,109.0,Greenhills,San Fernando,Cebu
+"Bago Gallera, Davao",6.05,4.0,3.0,90.56,180.0,Talomo,Davao City,Davao del Sur
+"Inchican, Silang",17.0,4.0,4.0,230.0,150.0,Inchican,Silang,Cavite
+"Bagumbayan, Tanauan",2.5,3.0,2.0,66.0,100.0,Bagumbayan,Tanauan City,Batangas
+"San Miguel, Pasig",16.5,4.0,3.0,182.0,127.0,San Miguel,Pasig,Metro Manila
+"Acropolis Residences, Kauswagan Rd., Brgy. Talamban, Cebu City Philippines (across NorthGen Hospital) Talamban, Cebu",7.26,3.0,2.0,161.0,60.0,Talamban,Cebu City,Cebu
+"Dalig, Antipolo",65.0,8.0,7.0,670.0,555.0,Dalig,Antipolo,Rizal
+"New Manila, Quezon City",52.0,3.0,3.0,380.0,162.3,Mariana,Quezon City,Metro Manila
+"Santo Domingo, Santa Rosa",13.0,4.0,3.0,230.0,150.0,Santo Domingo,City of Santa Rosa,Laguna
+"Asisan, Tagaytay",16.0,5.0,2.0,180.0,540.0,Asisan,Tagaytay City,Cavite
+"Pooc, Talisay",4.5,3.0,2.0,90.0,55.0,Pooc,Talisay,Cebu
+"Western Bicutan, Taguig",45.0,4.0,3.0,370.0,200.0,Western Bicutan,Taguig,Metro Manila
+Antipolo,78.0,5.0,5.0,822.0,556.0,,Antipolo,Rizal
+"Lot 69 Block 2 Pueblo El Grande Subdivision Phase 3 Barangay Tayud Consolacion Cebu Tayud, Consolacion",5.5,2.0,4.0,112.0,120.0,Tayud,Consolacion,Cebu
